@@ -1,22 +1,21 @@
 ---
-layout: default
+title: Profile
+layout: profile
 ---
 
 # Profile
 
-## 소개
+{:toc}
 
-### 이름
-신춘호
+## 기본정보
 
-### 생년월일
-1982.07.18
+| 이름 | 생년월일 | 연락처 | 이메일 |
+| --- | --- | --- | --- |
+| 신춘호 | 1982.07.18 | +82 010 3397 0718 | sch0718@naver.com |
 
-### 연락처
-+82-010-3397-0718
+## 자기소개
 
-### 이메일
-sch0718@naver.com
+
 
 ## 경력사항
 
@@ -43,7 +42,7 @@ sch0718@naver.com
 - 개발 환경: GCP, k8s(GKE), Container, Linux
 - 개발 언어: python, React, typescript, CSS(LESS), shell script
 - Data Platform/DBMS: BigQuery, PostgreSQL, GCP Pub/Sub, Redis
-- Framework/Tool: FastAPI, SQLAlchemy, poetry, pandas,NextJS, Helm, skaffold, Terraform, ArgoCD, Datadog, Github, Github Action, Docker, Airflow, Jupyter Notebook, EChart, Material UI
+- Framework/Tool: FastAPI, SQLAlchemy, poetry, pandas, NextJS, Helm, skaffold, Terraform, ArgoCD, Datadog, Github, Github Action, Docker, Airflow, Jupyter Notebook, EChart, Material UI
 - 직무 경험 및 성과: 대용량의 데이터(로그, 일 1억건 이상)를 처리할 수 있는 Architecture 설계 경험, 로그의 품질 향상을 통한 데이터 분석 효율 향상 및 서비스 품질 개선에 기여
 
 #### 배달 시간 예측 모델 실시간 서빙 서비스 구축
@@ -245,6 +244,8 @@ sch0718@naver.com
 - Data Platform/DBMS: MySQL
 - Framework/Tool: Spring, MyBatis, Maven, Nexus, Jenkins, SVN, jQuery
 
+---
+
 ### (주) 넥스트웹
 - 재직 기간: 2010.04 ~ 2013.06
 - 고용 형태: 정규직
@@ -359,6 +360,8 @@ sch0718@naver.com
 - Data Platform/DBMS: Oracle
 - Framework/Tool: MyBatis, Quartz, Ant, CVS
 
+---
+
 ### (주) 스왓소프트
 - 재직 기간: 2008.08 ~ 2010.02
 - 고용 형태: 정규직
@@ -418,6 +421,8 @@ sch0718@naver.com
 - 개발 언어: JAVA, JSP, javascript, CSS
 - Data Platform/DBMS: Oracle
 - Framework/Tool: Ant, CVS
+
+---
 
 ### 탑앤와이즈(주)
 - 재직 기간: 2007.03 ~ 2008.07 (2006.11 ~ 2007.02 인턴)
@@ -497,7 +502,31 @@ sch0718@naver.com
 - Data Platform/DBMS: Oracle
 - Framework/Tool: Ant, CVS
 
+## Skills
+
+**JAVA**, **Spring Cloud**, Spring Boot, Spring MVC, Spring Batch, Struts2, Struts, JSP, **JPA**, **MyBatis**, Hibernate, Quartz
+Python, FastAPI, Flask, SQLAlchemy, poetry, pandas  
+javascript, **typescript**, **React**, Vue, jQuery, ExtJS, CSS, LESS, NextJS, EChart, Leaflet, Material UI, Ant Design  
+**SQL**, PL/SQL, **PostgreSQL**, **Oracle**, **MySQL**, MariaDB, MSSQL, Sybase, **MongoDB**, **Redis**, **Elasticsearch**, **BigQuery**, Hadoop, Hive, Kafka, RabbitMQ  
+**GCP**, AWS, **Kubernetes**, **Docker**, **GKE**, **Helm**, **Skaffold**  
+**Github Actions**, **ArgoCD**, Tekton, Jenkins, Concourse CI, Continuum, Maven, Nexus, Ant  
+**Git**, Github, GitLab, bitbucket, SVN, CVS  
+shell script, **Datadog**, Kibana, Jupyter Notebook, Airflow, SonarQube  
+
 ## 학력사항
 
-### 자격사항
-- 정보처리기사
+| 기간 | 학교 | 전공 | 졸업구분 | 학점 |
+| --- | --- | --- | --- | --- |
+| 2001.03 ~ 2007.02 | (구) 경원전문대학<br/> (현) 가천대학교 | 컴퓨터정보학과 | 졸업 | 4.1/4.5 |
+
+## 병역
+
+| 기간 | 군별 | 군필 | 보훈대상 |
+| --- | --- | --- | --- |
+| 2002.03.21 ~ 2004.04.30 | 육군 | 병장 만기전역 | 해당없음 |
+
+## 자격사항
+
+| 자격명 | 발급기관 | 취득일 |
+| --- | --- | --- |
+| 정보처리기사 | 산업인력공단 | 2009.11.30 |

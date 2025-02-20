@@ -18,19 +18,19 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{ site.photo | relative_url }}" alt="Logo" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p class="view"><a href="https://github.com/sch0718">Github</a></p>
-        <p class="view"><a href="https://gitlab.com/sch0718">Gitlab</a></p>
-        <p class="view"><a href="https://www.linkedin.com/in/%EC%B6%98%ED%98%B8-%EC%8B%A0-451621185/">Linked In</a></p>
+        <p class="view"><a href="{{ site.profile.github }}">Github</a></p>
+        <p class="view"><a href="{{ site.profile.gitlab }}">Gitlab</a></p>
+        <p class="view"><a href="{{ site.profile.linkedin }}">Linked In</a></p>
         
 
         {% if site.show_downloads %}
         <ul class="downloads">
-          <li><a href="/docs/신춘호 이력서.pdf">Download <strong>RESUME</strong></a></li>
+          <li><a href="{{ site.resume }}">Download <strong>RESUME</strong></a></li>
         </ul>
         {% endif %}
       </header>
