@@ -1,4 +1,5 @@
 ---
+title: 신춘호 Profile
 layout: profile
 ---
 
