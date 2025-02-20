@@ -15,15 +15,41 @@ layout: profile
 
 ## 자기소개
 
+안녕하세요. 18년 차 개발자 신춘호라고 합니다.
 
+개발자로 일하기 시작한 이후로 재미있는 일을 하다 보니 의도하진 않았지만 다양한 분야에서 다양한 업무 경험을 하게 되었습니다.
+
+특히, 배달 플랫폼 회사의 데이터 서비스팀에서 데이터를 활용하기 위한 다양한 서비스를 개발하는 것이 가장 재밌고 보람된 일이었습니다.
+
+가장 자신 있는 언어는 JAVA(Spring Cloud)지만 python(Flask, FastAPI, pandas)로 분석가나 ML 엔지니어들의 코드를 서비스에 적합한 형태로 개발했었고,
+
+임원, PO, 마케팅 및 영업 부서에서도 데이터에 쉽게 접근하여 활용할 수 있도록 하기 위해 다양한 차트 및 지도를 이용한 시각화 개발을 React(Typescript, NextJS, LESS, EChart, Leaflet)로 했습니다.
+
+대규모 사용자 행동 로그(일 1억건 이상) 데이터 처리 Architecture를 설계하고, BigQuery, Airflow, k8s 등을 활용하여 구축했습니다. 로그 퀄리티와 관련된 다양한 지표를 볼 수 있도록 대시보드를 개발하였습니다.
+
+Data Engineer, Data Scientist들과 python, jupyter notebook, BigQuery, airflow 등을 통한 업무 협업을 했었고, 다양한 RDBMS(MySQL, PostgreSQL, MariaDB, Oracle, MSSQL 등)와 NoSQL(MongoDB, Elasticsearch 등) 사용 경험이 있습니다. 많지는 않지만 과거 다른 프로젝트에서 Hadoop/Hive도 경험했습니다.
+
+GCP/AWS 클라우드 환경에서 k8s, Container 기반의 Infra 설계 및 구성해 봤고, Github Action, Tekton등을 활용한 CI/CD 파이프라인 구축했습니다.
+
+가장 자신 있는 것은 JAVA를 이용한 BE 개발이지만 포털 솔루션을 개발하면서 JSP를 이용한 FE 개발도 하게 되면서 FE 개발에도 재미를 붙여 많은 경험을 쌓았습니다.
+
+그후 전자결재, 그룹웨어, 지식관리시스템, 개인화 추천 솔루션을 개발하고 프로젝트를 수행하면서 BE/FE 개발을 하면서 데이터와 관련된 많은 경험을 쌓았습니다.
+
+DevOps 솔루션을 개발하면서 클라우드 환경과 DevOps를 직/간접적으로 경험하게 되었고, JAVA로 BE 개발도 하면서 Vue로 FE 개발도 직접 했습니다.
+
+BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험했습니다.
+
+팀의 리더나 프로젝트 테크 리더로서 다양한 사람(마케팅, 영업, PO, 분석가 등)과 소통하며 일해 왔습니다.
+
+문제 해결을 위해 여러 사람들과 소통하며 기술적인 가교 역할을 수행할 수 있습니다.
 
 ## 경력사항
 
 ### 주식회사 위대한상상
-- 재직 기간: 2020.03 ~ 2024.10
-- 고용 형태: 정규직
-- 팀/직책: Data Service팀 / 팀장
-- 역할: Team Leader, 프로젝트 관리, 데이터 분석 및 시각화, 데이터 모델링 및 데이터 파이프라인 구축, 데이터 플랫폼 구축 및 운영, Back-End 개발, Front-End 개발
+> 재직 기간: 2020.03 ~ 2024.10  
+> 고용 형태: 정규직  
+> 팀/직책: Data Service팀 / 팀장  
+> 역할: Team Leader, 프로젝트 관리, 데이터 분석 및 시각화, 데이터 모델링 및 데이터 파이프라인 구축, 데이터 플랫폼 구축 및 운영, Back-End 개발, Front-End 개발
 
 #### 요기요 데이터 시각화 서비스 리뉴얼
 - 기간: 2023.04 ~ 2024.09
@@ -88,10 +114,10 @@ layout: profile
 ---
 
 ### 메가존클라우드 주식회사
-- 재직 기간: 2018.09 ~ 2020.03
-- 고용 형태: 정규직
-- 팀/직책: DevOps팀 / 팀원
-- 역할: 데브옵스 서비스 개발 및 운영, 데이터 모델링, Back-End 개발, Front-End 개발
+> 재직 기간: 2018.09 ~ 2020.03  
+> 고용 형태: 정규직  
+> 팀/직책: DevOps팀 / 팀원  
+> 역할: 데브옵스 서비스 개발 및 운영, 데이터 모델링, Back-End 개발, Front-End 개발  
 
 #### 대한항공 Cloud 환경 구축 및 DevOps 솔루션 도입
 - 기간: 2019.11 ~ 2020.02
@@ -116,10 +142,10 @@ layout: profile
 ---
 
 ### 코드포스트 주식회사
-- 재직 기간: 2017.04 ~ 2018.06
-- 고용 형태: 정규직
-- 팀/직책: 서비스 개발팀 / 팀원
-- 역할: 데브옵스 서비스 개발 및 운영, 프로젝트 수행, Back-End 개발, Front-End 개발
+> 재직 기간: 2017.04 ~ 2018.06  
+> 고용 형태: 정규직  
+> 팀/직책: 서비스 개발팀 / 팀원  
+> 역할: 데브옵스 서비스 개발 및 운영, 프로젝트 수행, Back-End 개발, Front-End 개발  
 
 #### Hybrid-Cloud 개발 환경 자동화 구축 서비스 개발
 - 기간: 2018.02 ~ 2018.06
@@ -143,10 +169,10 @@ layout: profile
 ---
 
 ### 엔시스템(NSYSTEM)
-- 재직 기간: 2016.04 ~ 2017.02
-- 고용 형태: 프리랜서
-- 직급: 과장
-- 역할: 프로젝트 수행
+> 재직 기간: 2016.04 ~ 2017.02  
+> 고용 형태: 프리랜서  
+> 직급: 과장  
+> 역할: 프로젝트 수행  
 
 #### SK Planet Data White Book / Cleat QR 신규 개발 및 BIS 시스템 모니터링
 - 기간: 2016.04 ~ 2017.02
@@ -160,10 +186,10 @@ layout: profile
 ---
 
 ### 와이데이터서비스
-- 재직 기간: 2015.09 ~ 2016.02
-- 고용 형태: 프리랜서
-- 직급: 과장
-- 역할: 프로젝트 수행
+> 재직 기간: 2015.09 ~ 2016.02  
+> 고용 형태: 프리랜서  
+> 직급: 과장  
+> 역할: 프로젝트 수행  
 
 #### 삼성 에스원 안심모바일 홈페이지 개편 및 다이렉트몰 구축, MVNO 서비스 연동
 - 기간: 2015.10 ~ 2016.02
@@ -186,10 +212,10 @@ layout: profile
 ---
 
 ### 엔시스템(NSYSTEM)
-- 재직 기간: 2015.06 ~ 2015.07
-- 고용 형태: 프리랜서
-- 직급: 과장
-- 역할: 프로젝트 수행
+> 재직 기간: 2015.06 ~ 2015.07  
+> 고용 형태: 프리랜서  
+> 직급: 과장  
+> 역할: 프로젝트 수행  
 
 #### SKT T-Life 추천 시스템 구축 및 운영
 - 기간: 2015.06 ~ 2015.07
@@ -203,10 +229,10 @@ layout: profile
 ---
 
 ### 주식회사 포씨소프트
-- 재직 기간: 2013.08 ~ 2015.04
-- 고용 형태: 정규직
-- 팀/직급: 개발팀 / 과장
-- 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발
+> 재직 기간: 2013.08 ~ 2015.04  
+> 고용 형태: 정규직  
+> 팀/직급: 개발팀 / 과장  
+> 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
 
 #### 고려사이버대학교 지능형 학습관리 시스템 구축
 - 기간: 2014.07 ~ 2015.04
@@ -247,10 +273,10 @@ layout: profile
 ---
 
 ### (주) 넥스트웹
-- 재직 기간: 2010.04 ~ 2013.06
-- 고용 형태: 정규직
-- 팀/직급: 개발팀, 연구소 / 대리
-- 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발
+> 재직 기간: 2010.04 ~ 2013.06  
+> 고용 형태: 정규직  
+> 팀/직급: 개발팀, 연구소 / 대리  
+> 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
 
 #### SK Telecom T 월드(온라인/모바일) 통계 고도화
 - 기간: 2013.03 ~ 2013.06
@@ -363,10 +389,10 @@ layout: profile
 ---
 
 ### (주) 스왓소프트
-- 재직 기간: 2008.08 ~ 2010.02
-- 고용 형태: 정규직
-- 팀/직급: 개발팀 / 대리
-- 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발
+> 재직 기간: 2008.08 ~ 2010.02  
+> 고용 형태: 정규직  
+> 팀/직급: 개발팀 / 대리  
+> 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
 
 #### 동양종합금융증권 WorkPlace 2.0 구축
 - 기간: 2009.06 ~ 2010.02
@@ -425,10 +451,10 @@ layout: profile
 ---
 
 ### 탑앤와이즈(주)
-- 재직 기간: 2007.03 ~ 2008.07 (2006.11 ~ 2007.02 인턴)
-- 고용 형태: 정규직
-- 팀/직급: 개발팀, 솔루션연구소 / 대리
-- 역할: Back-End 개발, Front-End 개발
+> 재직 기간: 2007.03 ~ 2008.07 (2006.11 ~ 2007.02 인턴)  
+> 고용 형태: 정규직  
+> 팀/직급: 개발팀, 솔루션연구소 / 대리  
+> 역할: Back-End 개발, Front-End 개발  
 
 #### 금융감독원 홈페이지 개편 및 검색엔진 도입
 - 기간: 2008.04 ~ 2008.06
@@ -504,7 +530,7 @@ layout: profile
 
 ## Skills
 
-**JAVA**, **Spring Cloud**, Spring Boot, Spring MVC, Spring Batch, Struts2, Struts, JSP, **JPA**, **MyBatis**, Hibernate, Quartz
+**JAVA**, **Spring Cloud**, Spring Boot, Spring MVC, Spring Batch, Struts2, Struts, JSP, **JPA**, **MyBatis**, Hibernate, Quartz  
 Python, FastAPI, Flask, SQLAlchemy, poetry, pandas  
 javascript, **typescript**, **React**, Vue, jQuery, ExtJS, CSS, LESS, NextJS, EChart, Leaflet, Material UI, Ant Design  
 **SQL**, PL/SQL, **PostgreSQL**, **Oracle**, **MySQL**, MariaDB, MSSQL, Sybase, **MongoDB**, **Redis**, **Elasticsearch**, **BigQuery**, Hadoop, Hive, Kafka, RabbitMQ  
@@ -512,6 +538,7 @@ javascript, **typescript**, **React**, Vue, jQuery, ExtJS, CSS, LESS, NextJS, EC
 **Github Actions**, **ArgoCD**, Tekton, Jenkins, Concourse CI, Continuum, Maven, Nexus, Ant  
 **Git**, Github, GitLab, bitbucket, SVN, CVS  
 shell script, **Datadog**, Kibana, Jupyter Notebook, Airflow, SonarQube  
+빅데이터, **데이터베이스 설계**, 데이터 시각화, SQL 튜닝, **OOP**, **MSA**  
 
 ## 학력사항
 
@@ -527,6 +554,6 @@ shell script, **Datadog**, Kibana, Jupyter Notebook, Airflow, SonarQube
 
 ## 자격사항
 
-| 자격명 | 발급기관 | 취득일 |
+| 자격증 | 발급기관 | 취득일 |
 | --- | --- | --- |
 | 정보처리기사 | 산업인력공단 | 2009.11.30 |
