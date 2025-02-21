@@ -17,7 +17,8 @@ layout: profile
 
 특히, 배달 플랫폼 회사의 데이터 서비스팀에서 데이터를 활용하기 위한 다양한 서비스를 개발하는 것이 가장 재밌고 보람된 일이었습니다.  
 가장 자신 있는 언어는 JAVA(Spring Cloud)지만 python(Flask, FastAPI, pandas)로 분석가나 ML 엔지니어들의 코드를 서비스에 적합한 형태로 개발했었고,  
-임원, PO, 마케팅 및 영업 부서에서도 데이터에 쉽게 접근하여 활용할 수 있도록 하기 위해 다양한 차트 및 지도를 이용한 시각화 개발을 React(Typescript, NextJS, LESS, EChart, Leaflet)로 했습니다.
+임원, PO, 마케팅 및 영업 부서에서도 데이터에 쉽게 접근하여 활용할 수 있도록 하기 위해 다양한 차트 및 지도를 이용한 시각화 개발을 React(Typescript, NextJS, LESS, EChart, Leaflet)로 했습니다.  
+현업 담당자들의 요구를 적극 수용하여 임직원 1300명 중 MAU 300명 이상이 사용하는 서비스로 발전시켰습니다.
 
 데이터 시각화 서비스를 최초 구축할 때는 팀 내 유일한 FE/BE 개발자(당시 cross-functional 조직으로 팀장/데이터 엔지니어, 분석가, ML 엔지니어로 구성)로  
 GCP/AWS 클라우드 환경에서 k8s, Container 기반의 Architecture 설계 및 인프라 구성, BE/FE 개발까지 담당했었고,  
@@ -25,10 +26,11 @@ Github Action, Tekton등을 활용한 CI/CD 파이프라인 구축했습니다.
 
 배달 시간 예측 모델 실시간 서빙 서비스 구축할 때는 FE/BE 개발 뿐만 아니라 트래픽의 변화에 따라 실시간 컨테이너 오케스트레이션을 통해  
 배달 플랫폼 특성 상 주문이 거의 없는 새벽 시간대부터 피크타임의 대규모 트래픽까지 효율적으로 소화할 수 있는 Architecture를 설계 구축하고,  
-모니터링을 통한 지속적인 성능 개선 및 최적화를 하였습니다.  
+모니터링을 통한 지속적인 성능 개선 및 최적화를 하였습니다.  (피크타임 기준 평균 latency 100ms -> 20ms)  
 또, 배달 시간 예측 모델의 서빙 뿐만 아니라 CI/CD/CT 파이프라인 구축을 주도했습니다.
 
 팀장이 된 후 대용량 데이터(일 1억건 이상)의 로그 데이터 처리 Architecture를 설계하고, BigQuery, Airflow, k8s 등을 활용하여 로그 정의, 로그 수집 및 실시간 정합성 체크(debug app only), 로그 퀄리티 분석 통계 서비스 구축을 주도했습니다.  
+시스템을 운영하면서 지속적인 성능 모니터링 및 개선으로 인프라 비용을 일 100만원 이상 절감하였고, 처리 시간도 3~4시간에서 30분 이내로 개선하였습니다.  
 데이터 엔지니어, 분석가, ML 엔지니어들과 python, jupyter notebook, BigQuery, airflow 등을 통한 업무 협업을 했었고,  
 다양한 RDBMS(PostgreSQL, MySQL, MariaDB, Oracle, MSSQL 등)와 NoSQL(MongoDB, Elasticsearch, Redis 등) 사용 경험이 있습니다.
 
