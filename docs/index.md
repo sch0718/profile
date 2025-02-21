@@ -48,6 +48,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 # 경력사항
 
 ## 주식회사 위대한상상
+
 > 재직 기간: 2020.03 ~ 2024.10  
 > 고용 형태: 정규직  
 > 팀/직책: Data Service팀 / 팀장  
@@ -116,6 +117,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 ---
 
 ## 메가존클라우드 주식회사
+
 > 재직 기간: 2018.09 ~ 2020.03  
 > 고용 형태: 정규직  
 > 팀/직책: DevOps팀 / 팀원  
@@ -144,10 +146,14 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 ---
 
 ## 코드포스트 주식회사
+
 > 재직 기간: 2017.04 ~ 2018.06  
 > 고용 형태: 정규직  
 > 팀/직책: 서비스 개발팀 / 팀원  
 > 역할: 데브옵스 서비스 개발 및 운영, 프로젝트 수행, Back-End 개발, Front-End 개발  
+
+<details>
+<summary>프로젝트 상세 보기</summary>
 
 ### Hybrid-Cloud 개발 환경 자동화 구축 서비스 개발
 - 기간: 2018.02 ~ 2018.06
@@ -167,14 +173,19 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 - 개발 언어: JAVA, JSP, javascript, CSS, Scala, shell script
 - Data Platform/DBMS: MySQL, MongoDB, Elasticsearch, Hadoop, Hive, Spark
 - Framework/Tool: Spring Boot, JPA, MyBatis, Spring Batch, Maven, Nexus, Jenkins, SonarQube, Kibana, GitLab, Docker, Oozie
+</details>
 
 ---
 
 ## 엔시스템(NSYSTEM)
+
 > 재직 기간: 2016.04 ~ 2017.02  
 > 고용 형태: 프리랜서  
 > 직급: 과장  
 > 역할: 프로젝트 수행  
+
+<details>
+<summary>프로젝트 상세 보기</summary>
 
 ### SK Planet Data White Book / Cleat QR 신규 개발 및 BIS 시스템 모니터링
 - 기간: 2016.04 ~ 2017.02
@@ -184,14 +195,19 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 - 개발 언어: JAVA, JSP, javascript, CSS, shell script
 - Data Platform/DBMS: Oracle, MySQL, MongoDB, Hadoop, Hive
 - Framework/Tool: Spring Boot, MyBatis, Spring Batch, Maven, Jenkins, SVN, Oozie, jQuery
+</details>
 
 ---
 
 ## 와이데이터서비스
+
 > 재직 기간: 2015.09 ~ 2016.02  
 > 고용 형태: 프리랜서  
 > 직급: 과장  
 > 역할: 프로젝트 수행  
+
+<details>
+<summary>프로젝트 상세 보기</summary>
 
 ### 삼성 에스원 안심모바일 홈페이지 개편 및 다이렉트몰 구축, MVNO 서비스 연동
 - 기간: 2015.10 ~ 2016.02
@@ -210,14 +226,19 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 - 개발 언어: JAVA, JSP, javascript, CSS
 - Data Platform/DBMS: Oracle, MSSQL
 - Framework/Tool: Spring, MyBatis, Maven, Jenkins, SVN, jQuery
+</details>
 
 ---
 
 ## 엔시스템(NSYSTEM)
+
 > 재직 기간: 2015.06 ~ 2015.07  
 > 고용 형태: 프리랜서  
 > 직급: 과장  
 > 역할: 프로젝트 수행  
+
+<details>
+<summary>프로젝트 상세 보기</summary>
 
 ### SKT T-Life 추천 시스템 구축 및 운영
 - 기간: 2015.06 ~ 2015.07
@@ -227,14 +248,19 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 - 개발 언어: JAVA, JSP, javascript, CSS, shell script
 - Data Platform/DBMS: Oracle, Hadoop, Hive
 - Framework/Tool: Spring, MyBatis, Maven, Jenkins, SVN, Oozie, jQuery
+</details>
 
 ---
 
 ## 주식회사 포씨소프트
+
 > 재직 기간: 2013.08 ~ 2015.04  
 > 고용 형태: 정규직  
 > 팀/직급: 개발팀 / 과장  
 > 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
+
+<details>
+<summary>프로젝트 상세 보기</summary>
 
 ### 고려사이버대학교 지능형 학습관리 시스템 구축
 - 기간: 2014.07 ~ 2015.04
@@ -271,14 +297,19 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 - 개발 언어: JAVA, JSP, javascript, CSS, shell script
 - Data Platform/DBMS: MySQL
 - Framework/Tool: Spring, MyBatis, Maven, Nexus, Jenkins, SVN, jQuery
+</details>
 
 ---
 
 ## (주) 넥스트웹
+
 > 재직 기간: 2010.04 ~ 2013.06  
 > 고용 형태: 정규직  
 > 팀/직급: 개발팀, 연구소 / 대리  
 > 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
+
+<details>
+<summary>프로젝트 상세 보기</summary>
 
 ### SK Telecom T 월드(온라인/모바일) 통계 고도화
 - 기간: 2013.03 ~ 2013.06
@@ -387,14 +418,19 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 - 개발 언어: JAVA, shell script
 - Data Platform/DBMS: Oracle
 - Framework/Tool: MyBatis, Quartz, Ant, CVS
+</details>
 
 ---
 
 ## (주) 스왓소프트
+
 > 재직 기간: 2008.08 ~ 2010.02  
 > 고용 형태: 정규직  
 > 팀/직급: 개발팀 / 대리  
 > 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
+
+<details>
+<summary>프로젝트 상세 보기</summary>
 
 ### 동양종합금융증권 WorkPlace 2.0 구축
 - 기간: 2009.06 ~ 2010.02
@@ -449,14 +485,19 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 - 개발 언어: JAVA, JSP, javascript, CSS
 - Data Platform/DBMS: Oracle
 - Framework/Tool: Ant, CVS
+</details>
 
 ---
 
 ## 탑앤와이즈(주)
+
 > 재직 기간: 2007.03 ~ 2008.07 (2006.11 ~ 2007.02 인턴)  
 > 고용 형태: 정규직  
 > 팀/직급: 개발팀, 솔루션연구소 / 대리  
 > 역할: Back-End 개발, Front-End 개발  
+
+<details>
+<summary>프로젝트 상세 보기</summary>
 
 ### 금융감독원 홈페이지 개편 및 검색엔진 도입
 - 기간: 2008.04 ~ 2008.06
@@ -529,6 +570,9 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 - 개발 언어: JAVA, JSP, javascript, CSS, shell script
 - Data Platform/DBMS: Oracle
 - Framework/Tool: Ant, CVS
+</details>
+
+---
 
 # Skills
 
@@ -548,7 +592,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 | --- | --- | --- | --- | --- |
 | 2001.03 ~ 2007.02 | (구) 경원전문대학<br/> (현) 가천대학교 | 컴퓨터정보학과 | 졸업 | 4.1/4.5 |
 
-# 병역
+# 병역사항
 
 | 기간 | 군별 | 군필 | 보훈대상 |
 | --- | --- | --- | --- |
