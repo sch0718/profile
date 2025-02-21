@@ -216,7 +216,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 > 직급: 과장  
 > 역할: 프로젝트 수행  
 
-<details markdown="1" open="false">
+<details markdown="1">
 <summary>프로젝트 상세 보기</summary>
 
 ### 삼성 에스원 안심모바일 홈페이지 개편 및 다이렉트몰 구축, MVNO 서비스 연동
@@ -247,7 +247,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 > 직급: 과장  
 > 역할: 프로젝트 수행  
 
-<details markdown="1" open="false">
+<details markdown="1">
 <summary>프로젝트 상세 보기</summary>
 
 ### SKT T-Life 추천 시스템 구축 및 운영
@@ -269,7 +269,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 > 팀/직급: 개발팀 / 과장  
 > 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
 
-<details markdown="1" open="false">
+<details markdown="1">
 <summary>프로젝트 상세 보기</summary>
 
 ### 고려사이버대학교 지능형 학습관리 시스템 구축
@@ -318,7 +318,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 > 팀/직급: 개발팀, 연구소 / 대리  
 > 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
 
-<details markdown="1" open="false">
+<details markdown="1">
 <summary>프로젝트 상세 보기</summary>
 
 ### SK Telecom T 월드(온라인/모바일) 통계 고도화
@@ -439,7 +439,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 > 팀/직급: 개발팀 / 대리  
 > 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
 
-<details markdown="1" open="false">
+<details markdown="1">
 <summary>프로젝트 상세 보기</summary>
 
 ### 동양종합금융증권 WorkPlace 2.0 구축
