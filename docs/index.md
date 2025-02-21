@@ -162,7 +162,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 > 팀/직책: 서비스 개발팀 / 팀원  
 > 역할: 데브옵스 서비스 개발 및 운영, 프로젝트 수행, Back-End 개발, Front-End 개발  
 
-<details markdown="1" open="false">
+<details markdown="1">
 <summary>프로젝트 상세 보기</summary>
 
 ### Hybrid-Cloud 개발 환경 자동화 구축 서비스 개발
@@ -194,7 +194,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 > 직급: 과장  
 > 역할: 프로젝트 수행  
 
-<details markdown="1" open="false">
+<details markdown="1">
 <summary>프로젝트 상세 보기</summary>
 
 ### SK Planet Data White Book / Cleat QR 신규 개발 및 BIS 시스템 모니터링
@@ -506,7 +506,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 > 팀/직급: 개발팀, 솔루션연구소 / 대리  
 > 역할: Back-End 개발, Front-End 개발  
 
-<details markdown="1" open="false">
+<details markdown="1">
 <summary>프로젝트 상세 보기</summary>
 
 ### 금융감독원 홈페이지 개편 및 검색엔진 도입
