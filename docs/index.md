@@ -30,12 +30,12 @@ Github Action, Tekton등을 활용한 CI/CD 파이프라인 구축했습니다.
 또, 배달 시간 예측 모델의 서빙 뿐만 아니라 CI/CD/CT 파이프라인 구축을 주도했습니다.
 
 팀장이 된 후 대용량 데이터(일 1억건 이상)의 로그 데이터 처리 Architecture를 설계하고, BigQuery, Airflow, k8s 등을 활용하여 로그 정의, 로그 수집 및 실시간 정합성 체크(debug app only), 로그 퀄리티 분석 통계 서비스 구축을 주도했습니다.  
-시스템을 운영하면서 지속적인 성능 모니터링 및 개선으로 인프라 비용을 일 100만원 이상 절감하였고, 처리 시간도 3~4시간에서 30분 이내로 개선하였습니다.  
+시스템을 운영하면서 지속적인 성능 모니터링 및 개선으로 인프라 비용을 일 100만원 이상 절감하였고, 처리 시간도 3~4시간에서 30분 이내로 개선하였습니다.
 
 데이터 엔지니어, 분석가, ML 엔지니어들과 python, jupyter notebook, BigQuery, airflow 등을 통한 업무 협업을 했었고,  
-다양한 RDBMS(PostgreSQL, MySQL, MariaDB, Oracle, MSSQL 등)와 NoSQL(MongoDB, Elasticsearch, Redis 등) 사용 경험이 있습니다.
+다양한 RDBMS(PostgreSQL, MySQL, MariaDB, Oracle, MSSQL 등)와 NoSQL(MongoDB, Elasticsearch, Redis 등) 사용 경험이 있습니다.  
+많지는 않지만 과거 다른 프로젝트에서 Hadoop/Hive도 경험했습니다.
 
-많지는 않지만 과거 다른 프로젝트에서 Hadoop/Hive도 경험했습니다.  
 가장 자신 있는 것은 JAVA를 이용한 BE 개발이지만 포털 솔루션을 개발하면서 JSP를 이용한 FE 개발도 하게 되면서 FE 개발에도 재미를 붙여 많은 경험을 쌓았습니다.  
 그후 전자결재, 그룹웨어, 지식관리시스템, 개인화 추천 솔루션을 개발하고 프로젝트를 수행하면서 BE/FE 개발을 하면서 데이터와 관련된 많은 경험을 쌓았습니다.  
 DevOps 솔루션을 개발하면서 클라우드 환경과 DevOps를 직/간접적으로 경험하게 되었고, JAVA로 BE 개발도 하면서 Vue로 FE 개발도 직접 했습니다.
