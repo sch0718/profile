@@ -530,15 +530,15 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 
 # Skills
 
-**JAVA**, **Spring Cloud**, Spring Boot, Spring MVC, Spring Batch, Struts2, Struts, JSP, **JPA**, **MyBatis**, Hibernate, Quartz  
-Python, FastAPI, Flask, SQLAlchemy, poetry, pandas  
-javascript, **typescript**, **React**, Vue, jQuery, ExtJS, CSS, LESS, NextJS, EChart, Leaflet, Material UI, Ant Design  
-**SQL**, PL/SQL, **PostgreSQL**, **Oracle**, **MySQL**, MariaDB, MSSQL, Sybase, **MongoDB**, **Redis**, **Elasticsearch**, **BigQuery**, Hadoop, Hive, Kafka, RabbitMQ  
-**GCP**, AWS, **Kubernetes**, **Docker**, **GKE**, **Helm**, **Skaffold**  
-**Github Actions**, **ArgoCD**, Tekton, Jenkins, Concourse CI, Continuum, Maven, Nexus, Ant  
-**Git**, Github, GitLab, bitbucket, SVN, CVS  
-shell script, **Datadog**, Kibana, Jupyter Notebook, Airflow, SonarQube  
-빅데이터, **데이터베이스 설계**, 데이터 시각화, SQL 튜닝, **OOP**, **MSA**  
+- Back-End:
+  - **JAVA**, **Spring Cloud**, Spring Boot, Spring MVC, Spring Batch, Struts2, Struts, JSP, **JPA**, **MyBatis**, Hibernate, Quartz  
+  - Python, FastAPI, Flask, SQLAlchemy, poetry, pandas
+- Front-End: javascript, **typescript**, **React**, Vue, jQuery, ExtJS, CSS, LESS, NextJS, EChart, Leaflet, Material UI, Ant Design
+- Data Engineering: **SQL**, PL/SQL, **PostgreSQL**, **Oracle**, **MySQL**, MariaDB, MSSQL, Sybase, **MongoDB**, **Redis**, **Elasticsearch**, **BigQuery**, Hadoop, Hive, Kafka, RabbitMQ
+- DevOps: **GCP**, AWS, **Kubernetes**, **Docker**, **GKE**, **Helm**, **Skaffold**
+- CI/CD: **Github Actions**, **ArgoCD**, Tekton, Jenkins, Concourse CI, Continuum, Maven, Nexus, Ant
+- Version Control: **Git**, Github, GitLab, bitbucket, SVN, CVS
+- Tool: shell script, **Datadog**, Kibana, Jupyter Notebook, Airflow, SonarQube
 
 # 학력사항
 
