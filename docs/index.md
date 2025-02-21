@@ -54,6 +54,9 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 > 팀/직책: Data Service팀 / 팀장  
 > 역할: Team Leader, 프로젝트 관리, 데이터 분석 및 시각화, 데이터 모델링 및 데이터 파이프라인 구축, 데이터 플랫폼 구축 및 운영, Back-End 개발, Front-End 개발
 
+<details markdown="1" open="true">
+<summary>프로젝트 상세 보기</summary>
+
 ### 요기요 데이터 시각화 서비스 리뉴얼
 - 기간: 2023.04 ~ 2024.09
 - 개요: 데이터 시각화 서비스 전체 리뉴얼, 기존 기능 및 데이터 이관 및 현행화, 표준 카탈로그 플랫폼 데이터 교정 기능 개발, 사용자 Profile 및 Segment 데이터를 이용한 사용자 그룹 간 비교 및 Target 데이터 추출 기능 개발
@@ -114,6 +117,8 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 - Framework/Tool: Flask, SQLAlchemy, poetry, pandas, Helm, skaffold, Tekton, Kibana, Bitbucket, Docker, Jupyter Notebook, EChart, Leaflet, Ant Design, bokeh
 - 직무 경험 및 성과: redash를 커스터마이즈한 BI 서비스가 AWS에서 운영중이었고 GCP에 새로 환경을 구축하게 되면서 **multi-cloud 환경** 경험, **Cloud/k8s 환경에 직접 인프라 구축** 경험, Data Scientist/Analyst 와 협업을 통해 그들의 개발 환경을 경험(Jupyter Notebook, pandas 등), 서비스 측면에서 다양한 사용자들(임원, 데이터 분석가, 영업 및 마케팅 실무자)의 요구에 맞는 기획 및 구현 방법을 고민하고 개발, 지도 시각화 및 지리정보 관련 데이터 처리 및 개발 경험
 
+</details>
+
 ---
 
 ## 메가존클라우드 주식회사
@@ -122,6 +127,9 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 > 고용 형태: 정규직  
 > 팀/직책: DevOps팀 / 팀원  
 > 역할: 데브옵스 서비스 개발 및 운영, 데이터 모델링, Back-End 개발, Front-End 개발  
+
+<details markdown="1" open="true">
+<summary>프로젝트 상세 보기</summary>
 
 ### 대한항공 Cloud 환경 구축 및 DevOps 솔루션 도입
 - 기간: 2019.11 ~ 2020.02
@@ -143,6 +151,8 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 - Framework/Tool: Spring Cloud, JPA, MyBatis, Concourse CI, Maven, Nexus, SonarQube, GitLab, Docker
 - 직무 경험 및 성과: **SaaS를 위한 multi-tenancy Architecure 설계 및 개발** 경험
 
+</details>
+
 ---
 
 ## 코드포스트 주식회사
@@ -152,7 +162,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 > 팀/직책: 서비스 개발팀 / 팀원  
 > 역할: 데브옵스 서비스 개발 및 운영, 프로젝트 수행, Back-End 개발, Front-End 개발  
 
-<details markdown="1">
+<details markdown="1" open="false">
 <summary>프로젝트 상세 보기</summary>
 
 ### Hybrid-Cloud 개발 환경 자동화 구축 서비스 개발
@@ -184,7 +194,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 > 직급: 과장  
 > 역할: 프로젝트 수행  
 
-<details markdown="1">
+<details markdown="1" open="false">
 <summary>프로젝트 상세 보기</summary>
 
 ### SK Planet Data White Book / Cleat QR 신규 개발 및 BIS 시스템 모니터링
@@ -206,7 +216,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 > 직급: 과장  
 > 역할: 프로젝트 수행  
 
-<details markdown="1">
+<details markdown="1" open="false">
 <summary>프로젝트 상세 보기</summary>
 
 ### 삼성 에스원 안심모바일 홈페이지 개편 및 다이렉트몰 구축, MVNO 서비스 연동
@@ -237,7 +247,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 > 직급: 과장  
 > 역할: 프로젝트 수행  
 
-<details markdown="1">
+<details markdown="1" open="false">
 <summary>프로젝트 상세 보기</summary>
 
 ### SKT T-Life 추천 시스템 구축 및 운영
@@ -259,7 +269,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 > 팀/직급: 개발팀 / 과장  
 > 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
 
-<details markdown="1">
+<details markdown="1" open="false">
 <summary>프로젝트 상세 보기</summary>
 
 ### 고려사이버대학교 지능형 학습관리 시스템 구축
@@ -308,7 +318,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 > 팀/직급: 개발팀, 연구소 / 대리  
 > 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
 
-<details markdown="1">
+<details markdown="1" open="false">
 <summary>프로젝트 상세 보기</summary>
 
 ### SK Telecom T 월드(온라인/모바일) 통계 고도화
@@ -429,7 +439,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 > 팀/직급: 개발팀 / 대리  
 > 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
 
-<details markdown="1">
+<details markdown="1" open="false">
 <summary>프로젝트 상세 보기</summary>
 
 ### 동양종합금융증권 WorkPlace 2.0 구축
@@ -496,7 +506,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 > 팀/직급: 개발팀, 솔루션연구소 / 대리  
 > 역할: Back-End 개발, Front-End 개발  
 
-<details markdown="1">
+<details markdown="1" open="false">
 <summary>프로젝트 상세 보기</summary>
 
 ### 금융감독원 홈페이지 개편 및 검색엔진 도입
