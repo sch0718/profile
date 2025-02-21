@@ -21,11 +21,17 @@ layout: profile
 
 임원, PO, 마케팅 및 영업 부서에서도 데이터에 쉽게 접근하여 활용할 수 있도록 하기 위해 다양한 차트 및 지도를 이용한 시각화 개발을 React(Typescript, NextJS, LESS, EChart, Leaflet)로 했습니다.
 
-대규모 사용자 행동 로그(일 1억건 이상) 데이터 처리 Architecture를 설계하고, BigQuery, Airflow, k8s 등을 활용하여 구축했습니다. 로그 퀄리티와 관련된 다양한 지표를 볼 수 있도록 대시보드를 개발하였습니다.
+데이터 시각화 서비스를 최초 구축할 때는 팀 내 유일한 FE/BE 개발자(당시 cross-functional 조직으로 팀장/데이터 엔지니어, 분석가, ML 엔지니어로 구성)로 GCP/AWS 클라우드 환경에서 k8s, Container 기반의 Architecture 설계 및 인프라 구성, BE/FE 개발까지 담당했었고, Github Action, Tekton등을 활용한 CI/CD 파이프라인 구축했습니다.
 
-Data Engineer, Data Scientist들과 python, jupyter notebook, BigQuery, airflow 등을 통한 업무 협업을 했었고, 다양한 RDBMS(MySQL, PostgreSQL, MariaDB, Oracle, MSSQL 등)와 NoSQL(MongoDB, Elasticsearch 등) 사용 경험이 있습니다. 많지는 않지만 과거 다른 프로젝트에서 Hadoop/Hive도 경험했습니다.
+배달 시간 예측 모델 실시간 서빙 서비스 구축할 때는 FE/BE 개발 뿐만 아니라 트래픽의 변화에 따라 실시간 컨테이너 오케스트레이션을 통해 배달 플랫폼 특성 상 주문이 거의 없는 새벽 시간대부터 피크타임의 대규모 트래픽까지 효율적으로 소화할 수 있는 Architecture를 설계 구축하고, 모니터링을 통한 지속적인 성능 개선 및 최적화를 하였습니다.
 
-GCP/AWS 클라우드 환경에서 k8s, Container 기반의 Infra 설계 및 구성해 봤고, Github Action, Tekton등을 활용한 CI/CD 파이프라인 구축했습니다.
+또, 배달 시간 예측 모델의 서빙 뿐만 아니라 CI/CD/CT 파이프라인 구축을 주도했습니다.
+
+팀장이 된 후 대용량 데이터(일 1억건 이상)의 로그 데이터 처리 Architecture를 설계하고, BigQuery, Airflow, k8s 등을 활용하여 로그 정의, 로그 수집 및 실시간 정합성 체크(debug app only), 로그 퀄리티 분석 통계 서비스 구축을 주도했습니다.
+
+데이터 엔지니어, 분석가, ML 엔지니어들과 python, jupyter notebook, BigQuery, airflow 등을 통한 업무 협업을 했었고, 다양한 RDBMS(PostgreSQL, MySQL, MariaDB, Oracle, MSSQL 등)와 NoSQL(MongoDB, Elasticsearch, Redis 등) 사용 경험이 있습니다.
+
+많지는 않지만 과거 다른 프로젝트에서 Hadoop/Hive도 경험했습니다.
 
 가장 자신 있는 것은 JAVA를 이용한 BE 개발이지만 포털 솔루션을 개발하면서 JSP를 이용한 FE 개발도 하게 되면서 FE 개발에도 재미를 붙여 많은 경험을 쌓았습니다.
 
@@ -35,7 +41,7 @@ DevOps 솔루션을 개발하면서 클라우드 환경과 DevOps를 직/간접�
 
 BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험했습니다.
 
-팀의 리더나 프로젝트 테크 리더로서 다양한 사람(마케팅, 영업, PO, 분석가 등)과 소통하며 일해 왔습니다.
+다양한 사람(타 개발팀, 마케팅, 영업, PO, 분석가 등)과 소통하며 일해 왔습니다.
 
 문제 해결을 위해 여러 사람들과 소통하며 기술적인 가교 역할을 수행할 수 있습니다.
 
@@ -104,7 +110,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 - 개발 환경: GCP, k8s(GKE), Container, Linux
 - 개발 언어: python, React, typescript, CSS(LESS), shell script
 - Data Platform/DBMS: BigQuery, PostgreSQL, Elasticsearch, Redis
-- Framework/Tool: Flask, SQLAlchemy, poetry, pandas, Helm, skaffold, Tekton, Kibana, Bitbucket, Docker, Jupyter Notebook, EChart, Leaflet, Ant Design
+- Framework/Tool: Flask, SQLAlchemy, poetry, pandas, Helm, skaffold, Tekton, Kibana, Bitbucket, Docker, Jupyter Notebook, EChart, Leaflet, Ant Design, bokeh
 - 직무 경험 및 성과: redash를 커스터마이즈한 BI 서비스가 AWS에서 운영중이었고 GCP에 새로 환경을 구축하게 되면서 multi-cloud 환경 경험, Cloud/k8s 환경에 직접 환경 구축 경험, Data Scientist/Analyst 와 협업을 통해 그들의 개발 환경을 경험(Jupyter Notebook, pandas 등), 서비스 측면에서 다양한 사용자들(임원, 데이터 분석가, 영업 및 마케팅 실무자)의 요구에 맞는 기획 및 구현 방법을 고민하고 개발, 지도 시각화 및 지리정보 관련 데이터 처리 및 개발 경험
 
 ---
