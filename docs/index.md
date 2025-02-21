@@ -31,6 +31,7 @@ Github Action, Tekton등을 활용한 CI/CD 파이프라인 구축했습니다.
 
 팀장이 된 후 대용량 데이터(일 1억건 이상)의 로그 데이터 처리 Architecture를 설계하고, BigQuery, Airflow, k8s 등을 활용하여 로그 정의, 로그 수집 및 실시간 정합성 체크(debug app only), 로그 퀄리티 분석 통계 서비스 구축을 주도했습니다.  
 시스템을 운영하면서 지속적인 성능 모니터링 및 개선으로 인프라 비용을 일 100만원 이상 절감하였고, 처리 시간도 3~4시간에서 30분 이내로 개선하였습니다.  
+
 데이터 엔지니어, 분석가, ML 엔지니어들과 python, jupyter notebook, BigQuery, airflow 등을 통한 업무 협업을 했었고,  
 다양한 RDBMS(PostgreSQL, MySQL, MariaDB, Oracle, MSSQL 등)와 NoSQL(MongoDB, Elasticsearch, Redis 등) 사용 경험이 있습니다.
 
