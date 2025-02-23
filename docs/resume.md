@@ -1,6 +1,5 @@
 ---
 title: 신춘호 Resume
-layout: profile
 ---
 
 # 자기소개
