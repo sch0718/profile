@@ -66,7 +66,7 @@ BE, FE, 데이터, AI, DevOps까지 다양한 분야의 비즈니스를 경험�
 - 개발 언어: python, React, typescript, CSS(LESS), shell script
 - Data Platform/DBMS: BigQuery, PostgreSQL, GCP Pub/Sub, Redis
 - Framework/Tool: FastAPI, SQLAlchemy, poetry, pandas, NextJS, Helm, skaffold, Terraform, ArgoCD, Datadog, Github, Github Action, Docker, Airflow, Jupyter Notebook, EChart, Material UI
-- 직무 경험 및 성과: **대용량의 데이터(로그, 일 1억건 이상)를 처리할 수 있는 Architecture 설계** 경험, **로그의 품질 향상(60%~70% -> 95% 이상)**을 통한 데이터 분석 효율 향상 및 서비스 품질 개선에 기여
+- 직무 경험 및 성과: **대용량의 데이터(로그, 일 1억건 이상)를 처리할 수 있는 Architecture 설계** 경험, **로그의 품질 향상(60%~70% -> 95% 이상)**을 통한 데이터 분석 신뢰도 향상 및 서비스 품질 개선에 기여
 
 ### 배달 시간 예측 모델 실시간 서빙 서비스 구축
 - 기간: 2022.09 ~ 2023.03
