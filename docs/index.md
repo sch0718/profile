@@ -3,13 +3,12 @@ title: 신춘호 Profile
 layout: profile
 ---
 
-# 기본정보
+# 📬 연락처
 
-| 이름 | 생년월일 | 연락처 | 이메일 |
-| --- | --- | --- | --- |
-| 신춘호 | 1982.07.18 | +82 010 3397 0718 | sch0718@naver.com |
+- +82 010 3397 0718
+- sch0718@naver.com
 
-# 자기소개
+# 📝 자기소개
 
 안녕하세요. 18년 차 개발자 신춘호입니다.
 
@@ -46,7 +45,7 @@ Java 기반 BE 개발뿐만 아니라 **Vue를 활용한 FE 개발**도 직접 �
 **다양한 직군(타 개발팀, 마케팅, 영업, PO, 분석가 등)과의 원활한 소통을 바탕으로 협업**해 왔습니다.  
 문제 해결을 위해 여러 사람과 소통하며 **기술적인 가교 역할**을 수행할 수 있습니다.
 
-# 경력사항
+# 💻 경력사항
 
 ## 주식회사 위대한상상
 
@@ -150,7 +149,8 @@ Java 기반 BE 개발뿐만 아니라 **Vue를 활용한 FE 개발**도 직접 �
 - 개발 언어: Java, Vue, javascript, CSS, shell script
 - Data Platform/DBMS: MariaDB, Redis, RabbitMQ
 - Framework/Tool: Spring Cloud, JPA, MyBatis, Concourse CI, Maven, Nexus, SonarQube, GitLab, Docker
-- 직무 경험 및 성과: **SaaS를 위한 multi-tenancy 아키텍처 설계 및 개발**
+- 직무 경험 및 성과: **SaaS를 위한 multi-tenancy 아키텍처 설계 및 개발**, 2019 Pivotal Cloud Native Day에 서비스 소개
+- 발표 영상: [![발표 영상](https://img.youtube.com/vi/F_GFwZRAaM8/0.jpg)](https://youtu.be/F_GFwZRAaM8?si=AxXgPWSd_k1J8khn)
 
 </details>
 
@@ -175,6 +175,10 @@ Java 기반 BE 개발뿐만 아니라 **Vue를 활용한 FE 개발**도 직접 �
 - Data Platform/DBMS: MariaDB
 - Framework/Tool: Spring Boot, JPA, MyBatis, Maven, Nexus, Jenkins, SonarQube, GitLab, Docker, jQuery
 - 직무 경험 및 성과: 데브옵스 엔지니어들과의 협업 및 서비스 개발, 클라우드 및 컨테이너 환경에서 개발 경험
+- 서비스 시연 영상:
+  - APM: [![APM](https://img.youtube.com/vi/NlNKjP0gbbs/0.jpg)](https://www.youtube.com/watch?v=NlNKjP0gbbs)
+  - Eclipse Che: [![Eclipse Che](https://img.youtube.com/vi/lRIVLFltws0/0.jpg)](https://www.youtube.com/watch?v=lRIVLFltws0)
+  - NextCloud: [![NextCloud](https://img.youtube.com/vi/9bYkeaDSdFs/0.jpg)](https://www.youtube.com/watch?v=9bYkeaDSdFs)
 
 ### 현대카드 빅데이터 검색 포털 시스템 (Shpere) 구축
 - 기간: 2017.06 ~ 2018.01
@@ -228,6 +232,7 @@ Java 기반 BE 개발뿐만 아니라 **Vue를 활용한 FE 개발**도 직접 �
 - 개발 언어: Java, JSP, javascript, CSS
 - Data Platform/DBMS: Oracle
 - Framework/Tool: Spring, MyBatis, Maven, Jenkins, SVN, jQuery
+- 참고: http://www.s1mobile.co.kr
 
 ### CJ 헬로비젼 MVNO 서비스 연동 및 다이렉트몰 구축
 - 기간: 2015.09 ~ 2015.10
@@ -585,7 +590,7 @@ Java 기반 BE 개발뿐만 아니라 **Vue를 활용한 FE 개발**도 직접 �
 
 ---
 
-# Skills
+# 📚 Skills
 
 - Back-End:
   - **Java**, **Spring Cloud**, Spring Boot, Spring MVC, Spring Batch, Struts2, Struts, JSP, **JPA**, **MyBatis**, Hibernate, Quartz  
@@ -597,20 +602,21 @@ Java 기반 BE 개발뿐만 아니라 **Vue를 활용한 FE 개발**도 직접 �
 - Version Control: **Git**, Github, GitLab, bitbucket, SVN, CVS
 - Tool/Etc: shell script, **Datadog**, Kibana, Jupyter Notebook, Airflow, SonarQube
 
-# 학력사항
+# 🎓 학력사항
 
-| 기간 | 학교 | 전공 | 졸업구분 | 학점 |
+| 기간 | 학교 | 소재지 | 전공 | 졸업구분 | 학점 | 졸업 증명서 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1998.03 ~ 2001.02 | 송림고등학교 | 경기도 성남시 | 이과 | 졸업 | - | <a href="https://drive.google.com/file/d/1WSH4VO24iNbbpIiZMUhV7ZRlwS50ZTRs/view?usp=drive_link" _blank="true">졸업 증명서</a> |
+| 2001.03 ~ 2007.02 | (구) 경원전문대학<br/> (현) 가천대학교 | 경기도 성남시 | 컴퓨터정보과 | 졸업 | 4.1/4.5 | <a href="https://drive.google.com/file/d/1jRRjrqVKsZV_KVvWTG7FZFY2bAoRfcFs/view?usp=drive_link" _blank="true">졸업 증명서</a> |
+
+# 💂 병역사항
+
+| 기간 | 군별 | 군필 | 보훈대상 | 병역 증명서 |
 | --- | --- | --- | --- | --- |
-| 2001.03 ~ 2007.02 | (구) 경원전문대학<br/> (현) 가천대학교 | 컴퓨터정보학과 | 졸업 | 4.1/4.5 |
+| 2002.03.21 ~ 2004.04.30 | 육군 | 병장 만기전역 | 해당없음 | <a href="https://drive.google.com/file/d/1zMCxyoM8g9EGWjubRbnjYfJCstR4-rM2/view?usp=drive_link" _blank="true">병역 증명서</a> |
 
-# 병역사항
+# 📜 자격사항
 
-| 기간 | 군별 | 군필 | 보훈대상 |
+| 자격증 | 발급기관 | 취득일 | 자격증 증명서 |
 | --- | --- | --- | --- |
-| 2002.03.21 ~ 2004.04.30 | 육군 | 병장 만기전역 | 해당없음 |
-
-# 자격사항
-
-| 자격증 | 발급기관 | 취득일 |
-| --- | --- | --- |
-| 정보처리기사 | 산업인력공단 | 2009.11.30 |
+| 정보처리기사 | 산업인력공단 | 2009.11.30 | <a href="https://drive.google.com/file/d/1lH-bWbPDkUjP5MoOwh3hGVDU60uDu9Zd/view?usp=drive_link" _blank="true">자격증 증명서</a> |
