@@ -595,7 +595,7 @@ Java 기반 BE 개발뿐만 아니라 **Vue를 활용한 FE 개발**도 직접 �
 - DevOps: **GCP**, AWS, **Kubernetes**, **Docker**, **GKE**, **Helm**, **Skaffold**
 - CI/CD: **Github Actions**, **ArgoCD**, Tekton, Jenkins, Concourse CI, Continuum, Maven, Nexus, Ant
 - Version Control: **Git**, Github, GitLab, bitbucket, SVN, CVS
-- Tool: shell script, **Datadog**, Kibana, Jupyter Notebook, Airflow, SonarQube
+- Tool/Etc: shell script, **Datadog**, Kibana, Jupyter Notebook, Airflow, SonarQube
 
 # 학력사항
 
