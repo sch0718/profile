@@ -181,7 +181,8 @@ Java 기반 BE 개발뿐만 아니라 **Vue를 활용한 FE 개발**도 직접 �
   [![APM](https://img.youtube.com/vi/NlNKjP0gbbs/0.jpg)](https://www.youtube.com/watch?v=NlNKjP0gbbs){:target="_blank"}
   - Eclipse Che:  
   [![Eclipse Che](https://img.youtube.com/vi/lRIVLFltws0/0.jpg)](https://www.youtube.com/watch?v=lRIVLFltws0){:target="_blank"}
-  - NextCloud:  [![NextCloud](https://img.youtube.com/vi/9bYkeaDSdFs/0.jpg)](https://www.youtube.com/watch?v=9bYkeaDSdFs){:target="_blank"}
+  - NextCloud:  
+  [![NextCloud](https://img.youtube.com/vi/9bYkeaDSdFs/0.jpg)](https://www.youtube.com/watch?v=9bYkeaDSdFs){:target="_blank"}
 
 ### 현대카드 빅데이터 검색 포털 시스템 (Shpere) 구축
 - 기간: 2017.06 ~ 2018.01

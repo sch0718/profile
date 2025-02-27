@@ -19,7 +19,8 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.show_downloads %}
-        <a href="./{{ site.resume }}" class="btn">Download <strong>RESUME</strong></a>
+        <a href="{{ site.resume.pdf }}" class="btn">Download <strong>Resume</strong> .pdf</a>
+        <a href="{{ site.resume.word }}" class="btn">Download <strong>Resume</strong> .docx</a>
       {% endif %}
     </header>
 
