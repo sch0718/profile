@@ -142,7 +142,8 @@ Java 기반 BE 개발뿐만 아니라 **Vue를 활용한 FE 개발**도 직접 �
 - Data Platform/DBMS: MariaDB, Redis, RabbitMQ
 - Framework/Tool: Spring Cloud, JPA, MyBatis, Concourse CI, Maven, Nexus, SonarQube, GitLab, Docker
 - 직무 경험 및 성과: **SaaS를 위한 multi-tenancy 아키텍처 설계 및 개발**, 2019 Pivotal Cloud Native Day에 서비스 소개
-- 발표 영상: [![발표 영상](https://img.youtube.com/vi/F_GFwZRAaM8/0.jpg)](https://youtu.be/F_GFwZRAaM8?si=AxXgPWSd_k1J8khn)
+- 발표 영상:  
+[![발표 영상](https://img.youtube.com/vi/F_GFwZRAaM8/0.jpg)](https://youtu.be/F_GFwZRAaM8?si=AxXgPWSd_k1J8khn){:target="_blank"}
 
 ---
 
@@ -163,9 +164,12 @@ Java 기반 BE 개발뿐만 아니라 **Vue를 활용한 FE 개발**도 직접 �
 - Framework/Tool: Spring Boot, JPA, MyBatis, Maven, Nexus, Jenkins, SonarQube, GitLab, Docker, jQuery
 - 직무 경험 및 성과: 데브옵스 엔지니어들과의 협업 및 서비스 개발, 클라우드 및 컨테이너 환경에서 개발 경험
 - 서비스 시연 영상:
-  - APM: [![APM](https://img.youtube.com/vi/NlNKjP0gbbs/0.jpg)](https://www.youtube.com/watch?v=NlNKjP0gbbs)
-  - Eclipse Che: [![Eclipse Che](https://img.youtube.com/vi/lRIVLFltws0/0.jpg)](https://www.youtube.com/watch?v=lRIVLFltws0)
-  - NextCloud: [![NextCloud](https://img.youtube.com/vi/9bYkeaDSdFs/0.jpg)](https://www.youtube.com/watch?v=9bYkeaDSdFs)
+  - APM:  
+  [![APM](https://img.youtube.com/vi/NlNKjP0gbbs/0.jpg)](https://www.youtube.com/watch?v=NlNKjP0gbbs){:target="_blank"}
+  - Eclipse Che:  
+  [![Eclipse Che](https://img.youtube.com/vi/lRIVLFltws0/0.jpg)](https://www.youtube.com/watch?v=lRIVLFltws0){:target="_blank"}
+  - NextCloud:  
+  [![NextCloud](https://img.youtube.com/vi/9bYkeaDSdFs/0.jpg)](https://www.youtube.com/watch?v=9bYkeaDSdFs){:target="_blank"}
 
 ### 현대카드 빅데이터 검색 포털 시스템 (Shpere) 구축
 - 기간: 2017.06 ~ 2018.01
@@ -564,17 +568,17 @@ Java 기반 BE 개발뿐만 아니라 **Vue를 활용한 FE 개발**도 직접 �
 
 | 기간 | 학교 | 소재지 | 전공 | 졸업구분 | 학점 | 졸업 증명서 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1998.03 ~ 2001.02 | 송림고등학교 | 경기도 성남시 | 이과 | 졸업 | - | <a href="https://drive.google.com/file/d/1WSH4VO24iNbbpIiZMUhV7ZRlwS50ZTRs/view?usp=drive_link" _blank="true">졸업 증명서</a> |
-| 2001.03 ~ 2007.02 | (구) 경원전문대학<br/> (현) 가천대학교 | 경기도 성남시 | 컴퓨터정보과 | 졸업 | 4.1/4.5 | <a href="https://drive.google.com/file/d/1jRRjrqVKsZV_KVvWTG7FZFY2bAoRfcFs/view?usp=drive_link" _blank="true">졸업 증명서</a> |
+| 1998.03 ~ 2001.02 | 송림고등학교 | 경기도 성남시 | 이과 | 졸업 | - | <a href="https://drive.google.com/file/d/1WSH4VO24iNbbpIiZMUhV7ZRlwS50ZTRs/view?usp=drive_link" target="_blank">졸업 증명서</a> |
+| 2001.03 ~ 2007.02 | (구) 경원전문대학<br/> (현) 가천대학교 | 경기도 성남시 | 컴퓨터정보과 | 졸업 | 4.1/4.5 | <a href="https://drive.google.com/file/d/1jRRjrqVKsZV_KVvWTG7FZFY2bAoRfcFs/view?usp=drive_link" target="_blank">졸업 증명서</a> |
 
 # 💂 병역사항
 
 | 기간 | 군별 | 군필 | 보훈대상 | 병역 증명서 |
 | --- | --- | --- | --- | --- |
-| 2002.03.21 ~ 2004.04.30 | 육군 | 병장 만기전역 | 해당없음 | <a href="https://drive.google.com/file/d/1zMCxyoM8g9EGWjubRbnjYfJCstR4-rM2/view?usp=drive_link" _blank="true">병역 증명서</a> |
+| 2002.03.21 ~ 2004.04.30 | 육군 | 병장 만기전역 | 해당없음 | <a href="https://drive.google.com/file/d/1zMCxyoM8g9EGWjubRbnjYfJCstR4-rM2/view?usp=drive_link" target="_blank">병역 증명서</a> |
 
 # 📜 자격사항
 
 | 자격증 | 발급기관 | 취득일 | 자격증 증명서 |
 | --- | --- | --- | --- |
-| 정보처리기사 | 산업인력공단 | 2009.11.30 | <a href="https://drive.google.com/file/d/1lH-bWbPDkUjP5MoOwh3hGVDU60uDu9Zd/view?usp=drive_link" _blank="true">자격증 증명서</a> |
+| 정보처리기사 | 산업인력공단 | 2009.11.30 | <a href="https://drive.google.com/file/d/1lH-bWbPDkUjP5MoOwh3hGVDU60uDu9Zd/view?usp=drive_link" target="_blank">자격증 증명서</a> |
