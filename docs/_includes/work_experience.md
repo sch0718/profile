@@ -7,7 +7,7 @@
 > 팀/직책: Data Service팀 / 팀장  
 > 역할: Team Leader, 프로젝트 관리, 데이터 분석 및 시각화, 데이터 모델링 및 데이터 파이프라인 구축, 데이터 플랫폼 구축 및 운영, Back-End 개발, Front-End 개발
 
-<details markdown="1" open="{% if page.expand_projects.yogiyo %}">
+<details markdown="1" open="{% page.expand_projects.yogiyo %}">
 <summary>📋 프로젝트 상세 보기</summary>
 
 {% include_relative projects/yogiyo.md %}
@@ -23,7 +23,7 @@
 > 팀/직책: DevOps팀 / 팀원  
 > 역할: 데브옵스 서비스 개발 및 운영, 데이터 모델링, Back-End 개발, Front-End 개발  
 
-<details markdown="1" open="{% if page.expand_projects.megazonecloud %}">
+<details markdown="1" open="{% page.expand_projects.megazonecloud %}">
 <summary>📋 프로젝트 상세 보기</summary>
 
 {% include_relative projects/megazonecloud.md %}
@@ -39,7 +39,7 @@
 > 팀/직책: 서비스 개발팀 / 팀원  
 > 역할: 데브옵스 서비스 개발 및 운영, 프로젝트 수행, Back-End 개발, Front-End 개발  
 
-<details markdown="1" open="{% if page.expand_projects.codepost %}">
+<details markdown="1" open="{% page.expand_projects.codepost %}">
 <summary>📋 프로젝트 상세 보기</summary>
 
 {% include_relative projects/codepost.md %}
@@ -55,7 +55,7 @@
 > 팀/직급: 빅데이터사업부 / 과장  
 > 역할: 프로젝트 수행  
 
-<details markdown="1" open="{% if page.expand_projects.ensystem_2016 %}">
+<details markdown="1" open="{% page.expand_projects.ensystem_2016 %}">
 <summary>📋 프로젝트 상세 보기</summary>
 
 {% include_relative projects/ensystem_2016.md %}
@@ -71,7 +71,7 @@
 > 팀/직급: 시스템사업부 / 과장  
 > 역할: 프로젝트 수행  
 
-<details markdown="1" open="{% if page.expand_projects.ydata %}">
+<details markdown="1" open="{% page.expand_projects.ydata %}">
 <summary>📋 프로젝트 상세 보기</summary>
 
 {% include_relative projects/ydata.md %}
@@ -87,7 +87,7 @@
 > 팀/직급: 빅데이터사업부 / 과장  
 > 역할: 프로젝트 수행  
 
-<details markdown="1" open="{% if page.expand_projects.ensystem_2015 %}">
+<details markdown="1" open="{% page.expand_projects.ensystem_2015 %}">
 <summary>📋 프로젝트 상세 보기</summary>
 
 {% include_relative projects/ensystem_2015.md %}
@@ -103,7 +103,7 @@
 > 팀/직급: 개발팀 / 과장  
 > 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
 
-<details markdown="1" open="{% if page.expand_projects.4csoft %}">
+<details markdown="1" open="{% page.expand_projects.4csoft %}">
 <summary>📋 프로젝트 상세 보기</summary>
 
 {% include_relative projects/4csoft.md %}
@@ -119,7 +119,7 @@
 > 팀/직급: 개발팀, 연구소 / 대리  
 > 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
 
-<details markdown="1" open="{% if page.expand_projects.nextweb %}">
+<details markdown="1" open="{% page.expand_projects.nextweb %}">
 <summary>📋 프로젝트 상세 보기</summary>
 
 {% include_relative projects/nextweb.md %}
@@ -135,7 +135,7 @@
 > 팀/직급: 개발팀 / 대리  
 > 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
 
-<details markdown="1" open="{% if page.expand_projects.swotsoft %}">
+<details markdown="1" open="{% page.expand_projects.swotsoft %}">
 <summary>📋 프로젝트 상세 보기</summary>
 
 {% include_relative projects/swotsoft.md %}
@@ -151,7 +151,7 @@
 > 팀/직급: 개발팀, 솔루션연구소 / 대리  
 > 역할: Back-End 개발, Front-End 개발  
 
-<details markdown="1" open="{% if page.expand_projects.topnwise %}">
+<details markdown="1" open="{% page.expand_projects.topnwise %}">
 <summary>📋 프로젝트 상세 보기</summary>
 
 {% include_relative projects/topnwise.md %}
