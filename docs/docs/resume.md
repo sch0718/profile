@@ -2,7 +2,7 @@
 title: 신춘호 이력서
 ---
 
-{% include_relative contact_information.md %}
+
 
 {% include_relative about_me.md %}
 
