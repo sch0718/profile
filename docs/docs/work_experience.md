@@ -74,7 +74,7 @@
 <details markdown="1">
 <summary>프로젝트 상세 보기</summary>
 
-{% include_relative docs/projects/ydaya.md %}
+{% include_relative docs/projects/ydata.md %}
 
 </details>
 
