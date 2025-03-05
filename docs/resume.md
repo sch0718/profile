@@ -16,7 +16,8 @@ expand_topnwise: true
 {% include about_me.md %}
 
 page: {{ page.expand_codepost }}
-site: {{ site.expand_projects.expand_codepost }}
+site: {{ site.expand_projects.codepost }}
+site: {{ site.expand_projects.yogiyo }}
 {% assign expand_yogiyo = page.expand_yogiyo | site.expand_projects.yogiyo %}
 {% assign expand_megazonecloud = page.expand_megazonecloud | site.expand_projects.megazonecloud %}
 {% assign expand_codepost = page.expand_codepost | site.expand_projects.codepost %}
