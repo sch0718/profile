@@ -8,6 +8,7 @@
 > 역할: Team Leader, 프로젝트 관리, 데이터 분석 및 시각화, 데이터 모델링 및 데이터 파이프라인 구축, 데이터 플랫폼 구축 및 운영, Back-End 개발, Front-End 개발
 
 {{ include.expand_yogiyo }}
+{{ include.expand_codepost }}
 <details markdown="1"<% if include.expand_yogiyo %> open="true"<% endif %>>
 <summary>📋 프로젝트 상세 보기</summary>
 
