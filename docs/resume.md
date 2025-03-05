@@ -1,6 +1,7 @@
 ---
 title: 신춘호 이력서
 layout: profile
+show_downloads: false
 ---
 
 {% include contact_information.md %}
