@@ -23,7 +23,6 @@
       {% else %}
         {% assign show_downloads = site.show_downloads %}
       {% endif %}
-      {{ show_downloads}}, {{ page.show_downloads }}, {{ site.show_downloads }}
       {% if show_downloads %}
         <a href="{{ site.resume.pdf }}" class="btn" target="_blank">Download <strong>Resume</strong> .pdf</a>
         <a href="{{ site.resume.word }}" class="btn" target="_blank">Download <strong>Resume</strong> .docx</a>
