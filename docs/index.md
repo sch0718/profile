@@ -7,7 +7,7 @@ layout: profile
 
 {% include about_me.md %}
 
-
+{% include work_experience.md %}
 
 {% include skills.md %}
 
