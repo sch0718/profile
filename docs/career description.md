@@ -3,7 +3,6 @@ title: 신춘호 경력 기술서
 layout: profile
 show_downloads: false
 show_profile_link: false
-permalink: /career_description
 ---
 
 {% include contact_information.md %}
