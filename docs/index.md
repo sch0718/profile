@@ -7,7 +7,7 @@ layout: profile
 
 {% include_relative docs/about_me.md %}
 
-{% include_relative docs/work_experience.md %}
+
 
 {% include_relative docs/skills.md %}
 
