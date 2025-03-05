@@ -1,26 +1,26 @@
 ---
 title: 신춘호 이력서
 layout: profile
-expand_codepost: false
-expand_ensystem_2016: false
-expand_ydata: false
-expand_ensystem_2015: false
-expand_4csoft: false
-expand_nextweb: false
-expand_swotsoft: false
-expand_topnwise: false
+expand_codepost: true
+expand_ensystem_2016: true
+expand_ydata: true
+expand_ensystem_2015: true
+expand_4csoft: true
+expand_nextweb: true
+expand_swotsoft: true
+expand_topnwise: true
 ---
 
 {% include contact_information.md %}
 
 {% include about_me.md %}
 
-page: {{ page.yogiyo }}
-site: {{ site.expand_projects.yogiyo }}
+page: {{ page.expand_codepost }}
+site: {{ site.expand_projects.expand_codepost }}
 {% assign expand_yogiyo = page.expand_yogiyo | site.expand_projects.yogiyo %}
 {% assign expand_megazonecloud = page.expand_megazonecloud | site.expand_projects.megazonecloud %}
 {% assign expand_codepost = page.expand_codepost | site.expand_projects.codepost %}
-expand_codepost: {{ expand_yogiyo }}
+expand_codepost: {{ expand_codepost }}
 {% assign expand_ensystem_2016 = page.expand_ensystem_2016 | site.expand_projects.ensystem_2016 %}
 {% assign expand_ydata = page.expand_ydata | site.expand_projects.ydata %}
 {% assign expand_ensystem_2015 = page.expand_ensystem_2015 | site.expand_projects.ensystem_2015 %}
