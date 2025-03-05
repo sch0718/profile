@@ -4,8 +4,8 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 resume:
-  pdf: https://drive.google.com/file/d/1QPROVRk_agMqi4kWFR7mfB5XkThWRIoj/view?usp=drive_link
-  word: https://docs.google.com/document/d/1lafi3Wp4nxK6G-9IHGxy4FrmBtPO2rAB/edit?usp=drive_link&ouid=115324412023263415743&rtpof=true&sd=true
+  pdf: https://drive.google.com/file/d/1d5BP71Ztz2UvB5H6PMBUz0zeh9_668sG/view?usp=drive_link
+  word: https://docs.google.com/document/d/1T7x1c8lLF6vX2OLwRix-kBStNs9jxt7w/edit?usp=drive_link&ouid=115324412023263415743&rtpof=true&sd=true
 show_profile_link: true
 profile:
   github: https://github.com/sch0718
