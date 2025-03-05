@@ -1,4 +1,8 @@
-{% assign show_projects_expand = include.show_projects_expand | default: site.show_projects_expand %}
+{% if include.show_projects_expand == false %}
+  {% assign show_projects_expand = false %}
+{% else %}
+  {% assign show_projects_expand = include.show_projects_expand | default: site.show_projects_expand %}
+{% endif %}
 {% assign expand_yogiyo = include.expand_yogiyo | default: site.expand_projects.yogiyo %}
 {% assign expand_megazonecloud = include.expand_megazonecloud | default: site.expand_projects.megazonecloud %}
 {% assign expand_codepost = include.expand_codepost | default: site.expand_projects.codepost %}
