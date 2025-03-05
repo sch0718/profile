@@ -1,45 +1,13 @@
 ---
 title: 신춘호 이력서
 layout: profile
-show_projects_expand: false
-expand_codepost: true
-expand_ensystem_2016: true
-expand_ydata: true
-expand_ensystem_2015: true
-expand_4csoft: true
-expand_nextweb: true
-expand_swotsoft: true
-expand_topnwise: true
 ---
 
 {% include contact_information.md %}
 
 {% include about_me.md %}
 
-{% assign show_projects_expand = page.show_projects_expand | default: site.show_projects_expand %}
-{% assign expand_yogiyo = page.expand_yogiyo | default: site.expand_projects.yogiyo %}
-{% assign expand_megazonecloud = page.expand_megazonecloud | default: site.expand_projects.megazonecloud %}
-{% assign expand_codepost = page.expand_codepost | default: site.expand_projects.codepost %}
-{% assign expand_ensystem_2016 = page.expand_ensystem_2016 | default: site.expand_projects.ensystem_2016 %}
-{% assign expand_ydata = page.expand_ydata | default: site.expand_projects.ydata %}
-{% assign expand_ensystem_2015 = page.expand_ensystem_2015 | default: site.expand_projects.ensystem_2015 %}
-{% assign expand_4csoft = page.expand_4csoft | default: site.expand_projects.4csoft %}
-{% assign expand_nextweb = page.expand_nextweb | default: site.expand_projects.nextweb %}
-{% assign expand_swotsoft = page.expand_swotsoft | default: site.expand_projects.swotsoft %}
-{% assign expand_topnwise = page.expand_topnwise | default: site.expand_projects.topnwise %}
-{% include work_experience.md 
-    show_projects_expand=show_projects_expand
-    expand_yogiyo=expand_yogiyo
-    expand_megazonecloud=expand_megazonecloud
-    expand_codepost=expand_codepost
-    expand_ensystem_2016=expand_ensystem_2016
-    expand_ydata=expand_ydata
-    expand_ensystem_2015=expand_ensystem_2015
-    expand_4csoft=expand_4csoft
-    expand_nextweb=expand_nextweb
-    expand_swotsoft=expand_swotsoft
-    expand_topnwise=expand_topnwise
-%}
+{% include work_experience.md show_projects_expand=false %}
 
 {% include skills.md %}
 
