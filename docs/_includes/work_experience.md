@@ -8,8 +8,6 @@
 {% assign expand_nextweb = include.expand_nextweb | default: site.expand_projects.nextweb %}
 {% assign expand_swotsoft = include.expand_swotsoft | default: site.expand_projects.swotsoft %}
 {% assign expand_topnwise = include.expand_topnwise | default: site.expand_projects.topnwise %}
-expand_yogiyo: {{ expand_yogiyo }}
-expand_codepost: {{ expand_codepost }}
 
 # 💻 경력사항
 
@@ -20,12 +18,16 @@ expand_codepost: {{ expand_codepost }}
 > 팀/직책: Data Service팀 / 팀장  
 > 역할: Team Leader, 프로젝트 관리, 데이터 분석 및 시각화, 데이터 모델링 및 데이터 파이프라인 구축, 데이터 플랫폼 구축 및 운영, Back-End 개발, Front-End 개발
 
-<details markdown="1" <% if expand_yogiyo %> open="true" <% endif %>>
+{% if site.show_projects_expand %}
+<details markdown="1"{% if expand_yogiyo %} open="true"{% endif %}>
 <summary>📋 프로젝트 상세 보기</summary>
+{% endif %}
 
 {% include_relative projects/yogiyo.md %}
 
+{% if site.show_projects_expand %}
 </details>
+{% endif %}
 
 ---
 
@@ -36,12 +38,16 @@ expand_codepost: {{ expand_codepost }}
 > 팀/직책: DevOps팀 / 팀원  
 > 역할: 데브옵스 서비스 개발 및 운영, 데이터 모델링, Back-End 개발, Front-End 개발  
 
-<details markdown="1" <% if expand_megazonecloud %> open="true" <% endif %>>
+{% if site.show_projects_expand %}
+<details markdown="1"{% if expand_megazonecloud %} open="true"{% endif %}>
 <summary>📋 프로젝트 상세 보기</summary>
+{% endif %}
 
 {% include_relative projects/megazonecloud.md %}
 
+{% if site.show_projects_expand %}
 </details>
+{% endif %}
 
 ---
 
@@ -52,12 +58,16 @@ expand_codepost: {{ expand_codepost }}
 > 팀/직책: 서비스 개발팀 / 팀원  
 > 역할: 데브옵스 서비스 개발 및 운영, 프로젝트 수행, Back-End 개발, Front-End 개발  
 
-<details markdown="1" <% if expand_codepost %> open="true" <% endif %>>
+{% if site.show_projects_expand %}
+<details markdown="1"{% if expand_codepost %} open="true"{% endif %}>
 <summary>📋 프로젝트 상세 보기</summary>
+{% endif %}
 
 {% include_relative projects/codepost.md %}
 
+{% if site.show_projects_expand %}
 </details>
+{% endif %}
 
 ---
 
@@ -68,12 +78,16 @@ expand_codepost: {{ expand_codepost }}
 > 팀/직급: 빅데이터사업부 / 과장  
 > 역할: 프로젝트 수행  
 
-<details markdown="1"<% if include.expand_ensystem_2016 %> open="true"<% endif %>>
+{% if site.show_projects_expand %}
+<details markdown="1"{% if include.expand_ensystem_2016 %} open="true"{% endif %}>
 <summary>📋 프로젝트 상세 보기</summary>
+{% endif %}
 
 {% include_relative projects/ensystem_2016.md %}
 
+{% if site.show_projects_expand %}
 </details>
+{% endif %}
 
 ---
 
@@ -84,12 +98,16 @@ expand_codepost: {{ expand_codepost }}
 > 팀/직급: 시스템사업부 / 과장  
 > 역할: 프로젝트 수행  
 
-<details markdown="1"<% if include.expand_ydata %> open="true"<% endif %>>
+{% if site.show_projects_expand %}
+<details markdown="1"{% if include.expand_ydata %} open="true"{% endif %}>
 <summary>📋 프로젝트 상세 보기</summary>
+{% endif %}
 
 {% include_relative projects/ydata.md %}
 
+{% if site.show_projects_expand %}
 </details>
+{% endif %}
 
 ---
 
@@ -100,12 +118,16 @@ expand_codepost: {{ expand_codepost }}
 > 팀/직급: 빅데이터사업부 / 과장  
 > 역할: 프로젝트 수행  
 
-<details markdown="1"<% if include.expand_ensystem_2015 %> open="true"<% endif %>>
+{% if site.show_projects_expand %}
+<details markdown="1"{% if include.expand_ensystem_2015 %} open="true"{% endif %}>
 <summary>📋 프로젝트 상세 보기</summary>
+{% endif %}
 
 {% include_relative projects/ensystem_2015.md %}
 
+{% if site.show_projects_expand %}
 </details>
+{% endif %}
 
 ---
 
@@ -116,12 +138,16 @@ expand_codepost: {{ expand_codepost }}
 > 팀/직급: 개발팀 / 과장  
 > 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
 
-<details markdown="1"<% if include.expand_4csoft %> open="true"<% endif %>>
+{% if site.show_projects_expand %}
+<details markdown="1"{% if include.expand_4csoft %} open="true"{% endif %}>
 <summary>📋 프로젝트 상세 보기</summary>
+{% endif %}
 
 {% include_relative projects/4csoft.md %}
 
+{% if site.show_projects_expand %}
 </details>
+{% endif %}
 
 ---
 
@@ -132,12 +158,16 @@ expand_codepost: {{ expand_codepost }}
 > 팀/직급: 개발팀, 연구소 / 대리  
 > 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
 
-<details markdown="1"<% if include.expand_nextweb %> open="true"<% endif %>>
+{% if site.show_projects_expand %}
+<details markdown="1"{% if include.expand_nextweb %} open="true"{% endif %}>
 <summary>📋 프로젝트 상세 보기</summary>
+{% endif %}
 
 {% include_relative projects/nextweb.md %}
 
+{% if site.show_projects_expand %}
 </details>
+{% endif %}
 
 ---
 
@@ -148,12 +178,16 @@ expand_codepost: {{ expand_codepost }}
 > 팀/직급: 개발팀 / 대리  
 > 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
 
-<details markdown="1"<% if include.expand_swotsoft %> open="true" <% endif %>>
+{% if site.show_projects_expand %}
+<details markdown="1"{% if include.expand_swotsoft %} open="true" {% endif %}>
 <summary>📋 프로젝트 상세 보기</summary>
+{% endif %}
 
 {% include_relative projects/swotsoft.md %}
 
+{% if site.show_projects_expand %}
 </details>
+{% endif %}
 
 ---
 
@@ -164,11 +198,15 @@ expand_codepost: {{ expand_codepost }}
 > 팀/직급: 개발팀, 솔루션연구소 / 대리  
 > 역할: Back-End 개발, Front-End 개발  
 
-<details markdown="1"<% if include.expand_topnwise %> open="true"<% endif %>>
+{% if site.show_projects_expand %}
+<details markdown="1"{% if include.expand_topnwise %} open="true"{% endif %}>
 <summary>📋 프로젝트 상세 보기</summary>
+{% endif %}
 
 {% include_relative projects/topnwise.md %}
 
+{% if site.show_projects_expand %}
 </details>
+{% endif %}
 
 ---
