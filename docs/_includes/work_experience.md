@@ -13,9 +13,6 @@
 {% assign expand_nextweb = include.expand_nextweb | default: site.expand_projects.nextweb %}
 {% assign expand_swotsoft = include.expand_swotsoft | default: site.expand_projects.swotsoft %}
 {% assign expand_topnwise = include.expand_topnwise | default: site.expand_projects.topnwise %}
-{{ include.show_projects_expand }}
-{{ site.show_projects_expand }}
-{{ show_projects_expand }}
 # 💻 경력사항
 
 ## 주식회사 위대한상상
