@@ -9,7 +9,7 @@
 
 expand_yogiyo: {{ include.expand_yogiyo }}
 expand_codepost: {{ include.expand_codepost }}
-<details markdown="1"<% if include.expand_yogiyo %> open="true"<% endif %>>
+<details markdown="1" <% if include.expand_yogiyo %> open="true" <% endif %>>
 <summary>📋 프로젝트 상세 보기</summary>
 
 {% include_relative projects/yogiyo.md %}
@@ -25,7 +25,7 @@ expand_codepost: {{ include.expand_codepost }}
 > 팀/직책: DevOps팀 / 팀원  
 > 역할: 데브옵스 서비스 개발 및 운영, 데이터 모델링, Back-End 개발, Front-End 개발  
 
-<details markdown="1"<% if include.expand_megazonecloud %> open="true"<% endif %>>
+<details markdown="1" <% if include.expand_megazonecloud %> open="true" <% endif %>>
 <summary>📋 프로젝트 상세 보기</summary>
 
 {% include_relative projects/megazonecloud.md %}
@@ -41,7 +41,7 @@ expand_codepost: {{ include.expand_codepost }}
 > 팀/직책: 서비스 개발팀 / 팀원  
 > 역할: 데브옵스 서비스 개발 및 운영, 프로젝트 수행, Back-End 개발, Front-End 개발  
 
-<details markdown="1"<% if include.expand_codepost %> open="true"<% endif %>>
+<details markdown="1" <% if include.expand_codepost %> open="true" <% endif %>>
 <summary>📋 프로젝트 상세 보기</summary>
 
 {% include_relative projects/codepost.md %}
