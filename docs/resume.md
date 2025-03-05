@@ -1,17 +1,6 @@
 ---
 title: 신춘호 이력서
 layout: profile
-expand_projects:
-    yogiyo: true
-    megazonecloud: true
-    codepost: true
-    ensystem_2016: true
-    ydata: true
-    ensystem_2015: true
-    4csoft: true
-    nextweb: true
-    swotsoft: true
-    topnwise: true
 ---
 
 {% include contact_information.md %}
