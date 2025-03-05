@@ -15,21 +15,16 @@ expand_topnwise: true
 
 {% include about_me.md %}
 
-page: {{ page.expand_codepost }}
-site: {{ site.expand_projects.codepost }}
-site: {{ site.expand_projects.yogiyo }}
 {% assign expand_yogiyo = page.expand_yogiyo | default: site.expand_projects.yogiyo %}
-expand_yogiyo: {{ expand_yogiyo }}
-{% assign expand_megazonecloud = page.expand_megazonecloud | site.expand_projects.megazonecloud %}
+{% assign expand_megazonecloud = page.expand_megazonecloud | default: site.expand_projects.megazonecloud %}
 {% assign expand_codepost = page.expand_codepost | default: site.expand_projects.codepost %}
-expand_codepost: {{ expand_codepost }}
-{% assign expand_ensystem_2016 = page.expand_ensystem_2016 | site.expand_projects.ensystem_2016 %}
-{% assign expand_ydata = page.expand_ydata | site.expand_projects.ydata %}
-{% assign expand_ensystem_2015 = page.expand_ensystem_2015 | site.expand_projects.ensystem_2015 %}
-{% assign expand_4csoft = page.expand_4csoft | site.expand_projects.4csoft %}
-{% assign expand_nextweb = page.expand_nextweb | site.expand_projects.nextweb %}
-{% assign expand_swotsoft = page.expand_swotsoft | site.expand_projects.swotsoft %}
-{% assign expand_topnwise = page.expand_topnwise | site.expand_projects.topnwise %}
+{% assign expand_ensystem_2016 = page.expand_ensystem_2016 | default: site.expand_projects.ensystem_2016 %}
+{% assign expand_ydata = page.expand_ydata | default: site.expand_projects.ydata %}
+{% assign expand_ensystem_2015 = page.expand_ensystem_2015 | default: site.expand_projects.ensystem_2015 %}
+{% assign expand_4csoft = page.expand_4csoft | default: site.expand_projects.4csoft %}
+{% assign expand_nextweb = page.expand_nextweb | default: site.expand_projects.nextweb %}
+{% assign expand_swotsoft = page.expand_swotsoft | default: site.expand_projects.swotsoft %}
+{% assign expand_topnwise = page.expand_topnwise | default: site.expand_projects.topnwise %}
 {% include work_experience.md 
     expand_yogiyo=expand_yogiyo
     expand_megazonecloud=expand_megazonecloud

@@ -1,3 +1,16 @@
+{% assign expand_yogiyo = include.expand_yogiyo | default: site.expand_projects.yogiyo %}
+{% assign expand_megazonecloud = include.expand_megazonecloud | default: site.expand_projects.megazonecloud %}
+{% assign expand_codepost = include.expand_codepost | default: site.expand_projects.codepost %}
+{% assign expand_ensystem_2016 = include.expand_ensystem_2016 | default: site.expand_projects.ensystem_2016 %}
+{% assign expand_ydata = include.expand_ydata | default: site.expand_projects.ydata %}
+{% assign expand_ensystem_2015 = include.expand_ensystem_2015 | default: site.expand_projects.ensystem_2015 %}
+{% assign expand_4csoft = include.expand_4csoft | default: site.expand_projects.4csoft %}
+{% assign expand_nextweb = include.expand_nextweb | default: site.expand_projects.nextweb %}
+{% assign expand_swotsoft = include.expand_swotsoft | default: site.expand_projects.swotsoft %}
+{% assign expand_topnwise = include.expand_topnwise | default: site.expand_projects.topnwise %}
+expand_yogiyo: {{ expand_yogiyo }}
+expand_codepost: {{ expand_codepost }}
+
 # 💻 경력사항
 
 ## 주식회사 위대한상상
@@ -7,9 +20,7 @@
 > 팀/직책: Data Service팀 / 팀장  
 > 역할: Team Leader, 프로젝트 관리, 데이터 분석 및 시각화, 데이터 모델링 및 데이터 파이프라인 구축, 데이터 플랫폼 구축 및 운영, Back-End 개발, Front-End 개발
 
-expand_yogiyo: {{ include.expand_yogiyo }}
-expand_codepost: {{ include.expand_codepost }}
-<details markdown="1" <% if include.expand_yogiyo %> open="true" <% endif %>>
+<details markdown="1" <% if expand_yogiyo %> open="true" <% endif %>>
 <summary>📋 프로젝트 상세 보기</summary>
 
 {% include_relative projects/yogiyo.md %}
@@ -25,7 +36,7 @@ expand_codepost: {{ include.expand_codepost }}
 > 팀/직책: DevOps팀 / 팀원  
 > 역할: 데브옵스 서비스 개발 및 운영, 데이터 모델링, Back-End 개발, Front-End 개발  
 
-<details markdown="1" <% if include.expand_megazonecloud %> open="true" <% endif %>>
+<details markdown="1" <% if expand_megazonecloud %> open="true" <% endif %>>
 <summary>📋 프로젝트 상세 보기</summary>
 
 {% include_relative projects/megazonecloud.md %}
@@ -41,7 +52,7 @@ expand_codepost: {{ include.expand_codepost }}
 > 팀/직책: 서비스 개발팀 / 팀원  
 > 역할: 데브옵스 서비스 개발 및 운영, 프로젝트 수행, Back-End 개발, Front-End 개발  
 
-<details markdown="1" <% if include.expand_codepost %> open="true" <% endif %>>
+<details markdown="1" <% if expand_codepost %> open="true" <% endif %>>
 <summary>📋 프로젝트 상세 보기</summary>
 
 {% include_relative projects/codepost.md %}
