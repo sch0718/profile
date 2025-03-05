@@ -16,10 +16,11 @@ expand_topnwise: false
 {% include about_me.md %}
 
 page: {{ page.expand_codepost }}
-site: {{ site.expand_codepost }}
+site: {{ site.expand_projects.codepost }}
 {% assign expand_yogiyo = page.expand_yogiyo | site.expand_projects.yogiyo %}
 {% assign expand_megazonecloud = page.expand_megazonecloud | site.expand_projects.megazonecloud %}
 {% assign expand_codepost = page.expand_codepost | site.expand_projects.codepost %}
+expand_codepost: {{ expand_codepost }}
 {% assign expand_ensystem_2016 = page.expand_ensystem_2016 | site.expand_projects.ensystem_2016 %}
 {% assign expand_ydata = page.expand_ydata | site.expand_projects.ydata %}
 {% assign expand_ensystem_2015 = page.expand_ensystem_2015 | site.expand_projects.ensystem_2015 %}
