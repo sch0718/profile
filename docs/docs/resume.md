@@ -2,16 +2,16 @@
 title: 신춘호 이력서
 ---
 
-{% include contact_information.md %}
+{% include ./docs/contact_information.md %}
 
-{% include about_me.md %}
+{% include ./docs/about_me.md %}
 
-{% include work_experience.md %}
+{% include ./docs/work_experience.md %}
 
-{% include skills.md %}
+{% include ./docs/skills.md %}
 
-{% include education.md %}
+{% include ./docs/education.md %}
 
-{% include military_service.md %}
+{% include ./docs/military_service.md %}
 
-{% include certifications.md %}
+{% include ./docs/certifications.md %}
