@@ -18,7 +18,11 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% assign show_downloads = page.show_downloads | default: site.show_downloads %}
+      {% if page.show_downloads % }
+        {% assign show_downloads = page.show_downloads %}
+      {% else %}
+        {% assign show_downloads = site.show_downloads %}
+      {% endif %}
       {{ show_downloads}}, {{ page.show_downloads }} {{ site.show_downloads }}
       {% if show_downloads %}
         <a href="{{ site.resume.pdf }}" class="btn" target="_blank">Download <strong>Resume</strong> .pdf</a>
