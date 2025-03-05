@@ -10,7 +10,7 @@
 <details markdown="1" open="true">
 <summary>프로젝트 상세 보기</summary>
 
-{% include projects_yogiyo.md %}
+{% include ./projects/yogiyo.md %}
 
 </details>
 
@@ -26,7 +26,7 @@
 <details markdown="1" open="true">
 <summary>프로젝트 상세 보기</summary>
 
-{% include projects_megazonecloud.md %}
+{% include ./projects/megazonecloud.md %}
 
 </details>
 
@@ -42,7 +42,7 @@
 <details markdown="1" open="true">
 <summary>프로젝트 상세 보기</summary>
 
-{% include projects_codepost.md %}
+{% include ./projects/codepost.md %}
 
 </details>
 
@@ -58,7 +58,7 @@
 <details markdown="1">
 <summary>프로젝트 상세 보기</summary>
 
-{% include projects_ensystem_2016.md %}
+{% include ./projects/ensystem_2016.md %}
 
 </details>
 
@@ -74,7 +74,7 @@
 <details markdown="1">
 <summary>프로젝트 상세 보기</summary>
 
-{% include projects_ydaya.md %}
+{% include ./projects/ydaya.md %}
 
 </details>
 
@@ -106,7 +106,7 @@
 <details markdown="1">
 <summary>프로젝트 상세 보기</summary>
 
-{% include projects_4csoft.md %}
+{% include ./projects/4csoft.md %}
 
 </details>
 
@@ -122,7 +122,7 @@
 <details markdown="1">
 <summary>프로젝트 상세 보기</summary>
 
-{% include projects_nextweb.md %}
+{% include ./projects/nextweb.md %}
 
 </details>
 
@@ -154,7 +154,7 @@
 <details markdown="1">
 <summary>프로젝트 상세 보기</summary>
 
-{% include projects_topnwise.md %}
+{% include ./projects/topnwise.md %}
 
 </details>
 
