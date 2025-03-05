@@ -18,10 +18,10 @@ expand_topnwise: true
 page: {{ page.expand_codepost }}
 site: {{ site.expand_projects.codepost }}
 site: {{ site.expand_projects.yogiyo }}
-{% assign expand_yogiyo = page.expand_yogiyo or site.expand_projects.yogiyo %}
+{% assign expand_yogiyo = page.expand_yogiyo | default: site.expand_projects.yogiyo %}
 expand_yogiyo: {{ expand_yogiyo }}
 {% assign expand_megazonecloud = page.expand_megazonecloud | site.expand_projects.megazonecloud %}
-{% assign expand_codepost = page.expand_codepost or site.expand_projects.codepost %}
+{% assign expand_codepost = page.expand_codepost | default: site.expand_projects.codepost %}
 expand_codepost: {{ expand_codepost }}
 {% assign expand_ensystem_2016 = page.expand_ensystem_2016 | site.expand_projects.ensystem_2016 %}
 {% assign expand_ydata = page.expand_ydata | site.expand_projects.ydata %}
