@@ -160,7 +160,7 @@
 > 재직 기간: 2010.04.05 ~ 2013.06.15  
 > 고용 형태: 정규직  
 > 팀/직급: 개발팀, 연구소 / 대리  
-> 역할: Project Tech Lead, DB 설계, Back-End 개발, Front-End 개발  
+> 역할: Project Tech Lead, 개인화 통계/추천 솔루션 개발, DB 설계, Back-End 개발, Front-End 개발  
 
 {% if show_projects_expand %}
 <details markdown="1"{% if include.expand_nextweb %} open="true"{% endif %}>
