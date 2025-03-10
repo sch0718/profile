@@ -8,4 +8,4 @@
 - DevOps: **GCP**, AWS, **Kubernetes**, **Docker**, **GKE**, **Helm**, **Skaffold**
 - CI/CD: **Github Actions**, **ArgoCD**, Tekton, Jenkins, Concourse CI, Continuum, Maven, Nexus, Ant
 - Version Control: **Git**, Github, GitLab, bitbucket, SVN, CVS
-- Tool/Etc: shell script, **Datadog**, Kibana, Jupyter Notebook, Airflow, SonarQube
+- Tool/Etc: shell script, **Datadog**, **Locust**, Kibana, Jupyter Notebook, Airflow, SonarQube
