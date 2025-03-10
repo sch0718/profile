@@ -20,7 +20,7 @@
 > 재직 기간: 2020.03.30 ~ 2024.10.01  
 > 고용 형태: 정규직  
 > 팀/직책: Data Service팀 / 팀장  
-> 역할: Team Leader, 프로젝트 관리, 데이터 분석 및 시각화, 데이터 모델링 및 데이터 파이프라인 구축, 데이터 플랫폼 구축 및 운영, Back-End 개발, Front-End 개발
+> 역할: Team Leader, 팀/프로젝트 관리, 데이터 플랫폼 구축 및 운영, 아키텍처/DB 설계, Back-End 개발, Front-End 개발, CI/CD 파이프라인 개발
 
 {% if show_projects_expand %}
 <details markdown="1"{% if expand_yogiyo %} open="true"{% endif %}>
@@ -40,7 +40,7 @@
 > 재직 기간: 2018.09.05 ~ 2020.03.28  
 > 고용 형태: 정규직  
 > 팀/직책: DevOps팀 / 팀원  
-> 역할: 데브옵스 서비스 개발 및 운영, 데이터 모델링, Back-End 개발, Front-End 개발  
+> 역할: 데브옵스 서비스 개발 및 운영, 아키텍처/DB 설계, Back-End 개발, Front-End 개발  
 
 {% if show_projects_expand %}
 <details markdown="1"{% if expand_megazonecloud %} open="true"{% endif %}>
@@ -60,7 +60,7 @@
 > 재직 기간: 2017.04.10 ~ 2018.08.01
 > 고용 형태: 정규직  
 > 팀/직책: 서비스 개발팀 / 팀원  
-> 역할: 데브옵스 서비스 개발 및 운영, 프로젝트 수행, Back-End 개발, Front-End 개발  
+> 역할: 데브옵스 서비스 개발 및 운영, 프로젝트 수행, DB 설계, Back-End 개발, Front-End 개발  
 
 {% if show_projects_expand %}
 <details markdown="1"{% if expand_codepost %} open="true"{% endif %}>
@@ -140,7 +140,7 @@
 > 재직 기간: 2013.08.05 ~ 2015.04.11  
 > 고용 형태: 정규직  
 > 팀/직급: 개발팀 / 과장  
-> 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
+> 역할: Project Tech Lead, DB 설계, Back-End 개발, Front-End 개발  
 
 {% if show_projects_expand %}
 <details markdown="1"{% if include.expand_4csoft %} open="true"{% endif %}>
@@ -160,7 +160,7 @@
 > 재직 기간: 2010.04.05 ~ 2013.06.15  
 > 고용 형태: 정규직  
 > 팀/직급: 개발팀, 연구소 / 대리  
-> 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
+> 역할: Project Tech Lead, DB 설계, Back-End 개발, Front-End 개발  
 
 {% if show_projects_expand %}
 <details markdown="1"{% if include.expand_nextweb %} open="true"{% endif %}>
@@ -180,7 +180,7 @@
 > 재직 기간: 2008.08.01 ~ 2010.02.26  
 > 고용 형태: 정규직  
 > 팀/직급: 개발팀 / 대리  
-> 역할: Project Tech Lead, 데이터 모델링, Back-End 개발, Front-End 개발  
+> 역할: Project Tech Lead, DB 설계, Back-End 개발, Front-End 개발  
 
 {% if show_projects_expand %}
 <details markdown="1"{% if include.expand_swotsoft %} open="true" {% endif %}>
