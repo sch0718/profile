@@ -6,7 +6,7 @@
 - 개발 언어: Java, JSP, javascript, CSS, shell script
 - Data Platform/DBMS: MariaDB
 - Framework/Tool: Spring Boot, JPA, MyBatis, Maven, Nexus, Jenkins, SonarQube, GitLab, Docker, jQuery
-- 직무 경험 및 성과: 데브옵스 엔지니어들과의 협업 및 서비스 개발, 클라우드 및 컨테이너 환경에서 개발 경험
+- 직무 경험 및 성과: 데브옵스 엔지니어들과 협업을 통한 서비스 개발 및 오픈, 클라우드 및 컨테이너 환경에서 개발 경험
 - 서비스 시연 영상:
   - APM:  
   [![APM](https://img.youtube.com/vi/NlNKjP0gbbs/0.jpg)](https://www.youtube.com/watch?v=NlNKjP0gbbs){:target="_blank"}

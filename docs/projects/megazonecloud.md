@@ -11,7 +11,7 @@
 ### DevOps 서비스 개발
 - 기간: 2018.10 ~ 2019.10
 - 개요: Project Management Service의 개발 티켓으로부터 간단한 설정 및 결재 프로세스를 통해 개발/운영 환경 Provisioning 및 CI/CD 파이프라인을 template 기반으로 소유한 Cloud 환경에 빠르고 쉽게 배포할 수 있는 기능을 제공
-- 역할: 아키텍처 설계, DB 설계, BE/FE 개발, open source 솔루션 활용 및 커스터마이즈
+- 역할: 아키텍처 설계, DB 설계, BE/FE 개발, Open Source Customize
 - 개발 환경: AWS(Fargate), Container, Linux, Embedded Tomcat
 - 개발 언어: Java, Vue, javascript, CSS, shell script
 - Data Platform/DBMS: MariaDB, Redis, RabbitMQ
