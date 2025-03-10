@@ -26,27 +26,17 @@
 - 개발 언어: Python, React, typescript, CSS(LESS), shell script
 - Data Platform/DBMS: BigQuery, PostgreSQL, Kafka(Confluent Cloud), Redis
 - Framework/Tool: FastAPI, poetry, pandas, NextJS, Helm, skaffold, Terraform, ArgoCD, Datadog, Github, Github Action, Docker, Airflow, Jupyter Notebook, EChart, Material UI
-- 직무 경험 및 성과: **트래픽의 변화에 따라 실시간 컨테이너 오케스트레이션 및 대규모 트래픽을 소화할 수 있는 형태의 아키텍처 설계**, **모니터링을 통한 지속적인 성능 개선 및 최적화(피크타임 기준 평균 latency 100ms → 20ms)**, ML 모델의 개발 및 서빙을 위한 전체 과정을 직·간접 경험, 지리 정보 관련 데이터 처리 및 개발 경험
-
-### MLOps Platform 구축
-- 기간: 2022.02 ~ 2022.08
-- 개요: 요기요 내 Data Scientist들의 업무 효율 증대를 위한 Platform 구축
-- 역할: MLOps Platform 아키텍처 설계 및 CI/CD/CT 파이프라인 구축 참여
-- 개발 환경: GCP, k8s(GKE), Container, Linux
-- 개발 언어: Python, shell script
-- Data Platform/DBMS: BigQuery, PostgreSQL, Kafka(Confluent Cloud), Redis
-- Framework/Tool: BentoML, Helm, skaffold, Github, Github Action, Docker, Airflow, Jupyter Notebook
-- 직무 경험 및 성과: Data Scientist들의 업무 효율 증대를 위한 Platform 구축, 바로 배달 시간 예측 모델 실시간 서빙 서비스 프로젝트로 이어져 프로젝트 수행 기간을 단축함
+- 직무 경험 및 성과: **트래픽의 변화에 따라 실시간 컨테이너 오케스트레이션 및 대규모 트래픽을 소화할 수 있는 형태의 아키텍처 설계**, **모니터링을 통한 지속적인 성능 개선 및 최적화(피크타임 기준 평균 latency 100ms → 20ms)**, ML 모델의 개발 및 서빙을 위한 전체 과정을 직·간접 경험, 지리 정보 관련 데이터 처리 및 개발
 
 ### 요기요 데이터 시각화 서비스 고도화
 - 기간: 2020.11 ~ 2022.08
 - 개요: 요기요 App 내 사용자 주문 시점의 가게 랭킹 시뮬레이션 기능 개발, 고객의 리뷰 내용을 ML 모델로 분석하여 어뷰징 및 욕설 감지, 리뷰 내 맛/식감 분류 및 분석 기능 개발
-- 역할: BE/FE 개발, ML 모델 서빙 및 관련 API 개발 및 시각화
+- 역할: BE/FE 개발, ML 모델 서빙 및 관련 API 개발 및 데이터 시각화 화면 개발
 - 개발 환경: GCP, k8s(GKE), Container, Linux
 - 개발 언어: Python, React, typescript, CSS(LESS), shell script
 - Data Platform/DBMS: BigQuery, PostgreSQL, Elasticsearch, Redis
 - Framework/Tool: Flask, SQLAlchemy, poetry, pandas, Helm, skaffold, Kibana, Bitbucket, Docker, Jupyter Notebook, EChart, Leaflet, Ant Design
-- 직무 경험 및 성과: **AI/ML 관련 환경 및 서비스 개발**
+- 직무 경험 및 성과: **AI/ML 개발/서비스 환경 구축 및 API 서빙**, 가게 랭킹 시뮬레이션을 통한 추천 서비스 개선에 기여, 리뷰 어뷰징 및 욕설 감지 서비스를 통한 CS 업무 효율 증대에 기여
 
 ### 요기요 데이터 시각화 서비스 구축
 - 기간: 2020.04 ~ 2020.09

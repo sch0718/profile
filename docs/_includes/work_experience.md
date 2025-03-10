@@ -180,7 +180,7 @@
 > 재직 기간: 2008.08.01 ~ 2010.02.26  
 > 고용 형태: 정규직  
 > 팀/직급: 개발팀 / 대리  
-> 역할: Project Tech Lead, DB 설계, Back-End 개발, Front-End 개발  
+> 역할: Project Tech Lead, 그룹웨어/전자결재 솔루션 개발, DB 설계, Back-End 개발, Front-End 개발  
 
 {% if show_projects_expand %}
 <details markdown="1"{% if include.expand_swotsoft %} open="true" {% endif %}>
@@ -200,7 +200,7 @@
 > 재직 기간: 2007.03.01 ~ 2008.07.05 (2006.11 ~ 2007.02 인턴)  
 > 고용 형태: 정규직  
 > 팀/직급: 개발팀, 솔루션연구소 / 대리  
-> 역할: Back-End 개발, Front-End 개발  
+> 역할: 포털 솔루션 개발, Back-End 개발, Front-End 개발  
 
 {% if show_projects_expand %}
 <details markdown="1"{% if include.expand_topnwise %} open="true"{% endif %}>
