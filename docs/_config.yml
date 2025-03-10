@@ -4,13 +4,13 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 resume:
-  pdf: https://drive.google.com/file/d/1d5BP71Ztz2UvB5H6PMBUz0zeh9_668sG/view?usp=drive_link
-  word: https://docs.google.com/document/d/1T7x1c8lLF6vX2OLwRix-kBStNs9jxt7w/edit?usp=drive_link&ouid=115324412023263415743&rtpof=true&sd=true
+  pdf: https://buly.kr/AapKInl # 원본 URL: https://drive.google.com/file/d/1d5BP71Ztz2UvB5H6PMBUz0zeh9_668sG/view?usp=drive_link
+  word: https://buly.kr/Ye8OJ2 # 원본 URL: https://docs.google.com/document/d/1T7x1c8lLF6vX2OLwRix-kBStNs9jxt7w/edit?usp=drive_link&ouid=115324412023263415743&rtpof=true&sd=true
 show_profile_link: true
 profile:
   github: https://github.com/sch0718
   gitlab: https://gitlab.com/sch0718
-  linkedin: https://www.linkedin.com/in/%EC%B6%98%ED%98%B8-%EC%8B%A0-451621185/
+  linkedin: https://buly.kr/AapKIlY # 원본 URL: https://www.linkedin.com/in/%EC%B6%98%ED%98%B8-%EC%8B%A0-451621185/
 show_projects_expand: true
 expand_projects:
     yogiyo: true
