@@ -9,6 +9,8 @@ layout: profile
 
 ![Force Architecture](../assets/images/ilogyo1.png)
 
+![Log-Validator](../assets/images/ilogyo2.png)
+
 - I.Log.Yo: 요기요의 다양한 앱(일반 사용자 주문 앱, 라이더 앱, 사장님 앱 등)에서 발생하는 사용자들의 행동 로그를 정의하고, 관리하는 서비스.
     - I.Log.Yo FE (React), I.Log.Yo BE (FastAPI)로 구성
     - 정의된 로그의 최신 데이터가 redis에 캐싱되고, Log-Validator에서 활용합니다.
