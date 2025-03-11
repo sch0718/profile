@@ -24,4 +24,4 @@ layout: profile
 
 ## Debug 앱 시연 영상
 
-[시연 영상](../assets/images/ilogyo-debug.mp4){:target="_blank"}
+[![시연 영상](https://img.youtube.com/vi/HeyBH8Y3UFc/0.jpg)](https://youtube.com/shorts/HeyBH8Y3UFc){:target="_blank"}
