@@ -1,114 +1,109 @@
 # 📚 Skills
 
-- Back-End:
-  - **Java**, **Spring Cloud**, Spring Boot, Spring MVC, Spring Batch, Struts2, Struts, JSP, **JPA**, **MyBatis**, Hibernate, Quartz  
-  - Python, FastAPI, Flask, SQLAlchemy, poetry, pandas
-- Front-End: javascript, **typescript**, **React**, Vue, jQuery, ExtJS, CSS, LESS, NextJS, EChart, Leaflet, Material UI, Ant Design
-- Data Engineering: **SQL**, PL/SQL, **PostgreSQL**, **Oracle**, **MySQL**, MariaDB, MSSQL, Sybase, **MongoDB**, **Redis**, **Elasticsearch**, **BigQuery**, Hadoop, Hive, Kafka, RabbitMQ
-- DevOps: **GCP**, AWS, **Kubernetes**, **Docker**, **GKE**, **Helm**, **Skaffold**
-- CI/CD: **Github Actions**, **ArgoCD**, Tekton, Jenkins, Concourse CI, Continuum, Maven, Nexus, Ant
-- Version Control: **Git**, Github, GitLab, bitbucket, SVN, CVS
-- Tool/Etc: shell script, **Datadog**, **Locust**, Kibana, Jupyter Notebook, Airflow, SonarQube
+> 95: 업무에 다수 직접 활용, 매우 능숙함  
+90: 업무에 다수 직접 활용, 능숙함  
+85: 업무에 직접 활용, 능숙함  
+80: 업무에 직접 활용, 원활한 활용 가능  
+75: 업무에 직접 활용, 활용 가능  
+70: 업무에 직접 활용, 원활하지 못하지만 활용 가능  
+65: 업무 환경에서 간접 활용, 원활하지 못하지만 활용 가능  
+60: 업무 환경에서 간접 활용, 이해 또는 수정만 가능  
+55: 업무 환경에서 경험, 이해 또는 수정만 가능  
+~50: 업무 환경에서 경험
 
-## 기술 스킬 수준
-
-### 백엔드
-- Java       : 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 95%
-- Spring     : 🟥🟥🟥🟥🟥🟥🟥🟥🟥⬜ 90%
-- JPA        : 🟥🟥🟥🟥🟥🟥🟥🟥⬜⬜ 80%
-- Python     : 🟥🟥🟥🟥🟥🟥🟥⬜⬜⬜ 70%
-- FastAPI    : 🟥🟥🟥🟥🟥🟥⬜⬜⬜⬜ 60%
-
-### 프론트엔드
-- JavaScript : 🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜ 70%
-- TypeScript : 🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜ 60%
-- React      : 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ 50%
-- NextJS     : 🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 40%
-
-### 데이터베이스
-- MySQL      : 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 80%
-- PostgreSQL : 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 80%
-- Redis      : 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 70%
-- MongoDB    : 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 60%
-- Elasticsearch: 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 60%
-
-### 인프라/DevOps
-- Docker     : 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
-- Kubernetes : 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%
-- GCP        : 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%
-- Kafka      : 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%
-- CI/CD      : 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
-
-```mermaid
-%%{init: {'theme': 'neutral' }}%%
-gantt
-    title 기술 스킬 수준
-    dateFormat X
-    axisFormat %s%%
-    
-    section 백엔드
-    Java        :done, 0, 95
-    Spring      :done, 0, 90
-    JPA         :done, 0, 80
-    Python      :done, 0, 70
-    FastAPI     :done, 0, 60
-    
-    section 프론트엔드
-    JavaScript  :done, 0, 70
-    TypeScript  :done, 0, 60
-    React       :done, 0, 50
-    NextJS      :done, 0, 40
-    
-    section 데이터베이스
-    MySQL       :done, 0, 80
-    PostgreSQL  :done, 0, 80
-    Redis       :done, 0, 70
-    MongoDB     :done, 0, 60
-    Elasticsearch :done, 0, 60
-    
-    section 인프라/DevOps
-    Docker      :done, 0, 70
-    Kubernetes  :done, 0, 60
-    GCP         :done, 0, 60
-    Kafka       :done, 0, 50
-    CI/CD       :done, 0, 70
-```
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
-```mermaid
-  info
-```
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
+||전문성|점수|
+|--:|:--:|:--:|
+|**🔴 Backend - Java**|||
+|**Java**|🟥🟥🟥🟥🟥🟥🟥🟥🟥⬜|90|
+|**Spring Cloud**|🟥🟥🟥🟥🟥🟥🟥🟥🟥⬜|85|
+|**Spring Boot**|🟥🟥🟥🟥🟥🟥🟥🟥🟥⬜|85|
+|Spring MVC|🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥|95|
+|Spring Batch|🟥🟥🟥🟥🟥🟥🟥🟥⬜⬜|80|
+|Struts2|🟥🟥🟥🟥🟥🟥🟥🟥🟥⬜|90|
+|Struts|🟥🟥🟥🟥🟥🟥🟥🟥⬜⬜|80|
+|JSP|🟥🟥🟥🟥🟥🟥🟥🟥🟥⬜|90|
+|**JPA**|🟥🟥🟥🟥🟥🟥🟥🟥⬜⬜|75|
+|**MyBatis**|🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥|95|
+|Hibernate|🟥🟥🟥🟥🟥🟥🟥⬜⬜⬜|65|
+|Quartz|🟥🟥🟥🟥🟥🟥🟥🟥🟥⬜|90|
+||||
+|**🟢 Backend - Python**|||
+|Python|🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜|70|
+|FastAPI|🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜|80|
+|Flask|🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜|70|
+|SQLAlchemy|🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜|70|
+|poetry|🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜|80|
+|pandas|🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜|70|
+||||
+|**🔵 Frontend**|||
+|javascript|🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜|90|
+|**typescript**|🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜|75|
+|**React**|🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜|75|
+|**Vue**|🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜|75|
+|jQuery|🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦|95|
+|ExtJS|🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜|90|
+|CSS|🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜|85|
+|LESS|🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜|85|
+|NextJS|🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜|75|
+|EChart|🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜|85|
+|Leaflet|🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜|80|
+|Material UI|🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜|75|
+|Ant Design|🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜|85|
+||||
+|**🟡 Database**|||
+|**SQL**|🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜|90|
+|**PostgreSQL**|🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜|80|
+|**Oracle**|🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜|85|
+|**MySQL**|🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜|85|
+|MariaDB|🟨🟨🟨🟨🟨🟨🟨🟨🟨⬜|85|
+|MSSQL|🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜|75|
+|Sybase|🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜|70|
+|**MongoDB**|🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜|80|
+|**Redis**|🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜|80|
+|**Elasticsearch**|🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜|80|
+|**BigQuery**|🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜|80|
+|Hadoop|🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜|60|
+|Hive|🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜|70|
+|Kafka|🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜|70|
+|RabbitMQ|🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜|70|
+||||
+|**🟣 Infra/DevOps**|||
+|**GCP**|🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜|80|
+|AWS|🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜|70|
+|**Kubernetes**|🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜|80|
+|Lens|🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜|80|
+|Docker|🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜|80|
+|GKE|🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜|75|
+|**Helm**|🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜|70|
+|Skaffold|🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜|75|
+|Terraform|🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜|60|
+|Pulumi|🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜|60|
+||||
+|**🟠 CI/CD**|||
+|**Github Actions**|🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜|75|
+|**ArgoCD**|🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜|70|
+|Tekton|🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜|75|
+|Jenkins|🟧🟧🟧🟧🟧🟧🟧🟧⬜⬜|75|
+|Concourse CI|🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜|60|
+|Continuum|🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜|60|
+|Maven|🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜|90|
+|Nexus|🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜|90|
+|Ant|🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜|90|
+||||
+|**🟤 Version Control**|||
+|**Git**|🟫🟫🟫🟫🟫🟫🟫🟫🟫⬜|90|
+|**Github**|🟫🟫🟫🟫🟫🟫🟫🟫🟫⬜|90|
+|GitLab|🟫🟫🟫🟫🟫🟫🟫🟫🟫⬜|85|
+|bitbucket|🟫🟫🟫🟫🟫🟫🟫🟫⬜⬜|75|
+|SVN|🟫🟫🟫🟫🟫🟫🟫🟫🟫⬜|90|
+|CVS|🟫🟫🟫🟫🟫🟫🟫🟫🟫⬜|90|
+||||
+|**⚫ Tool/Etc**|||
+|shell script|⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜|75|
+|**Datadog**|⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜|80|
+|Grafana|⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜|65|
+|**Locust**|⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜|80|
+|Kibana|⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜|75|
+|Jupyter Notebook|⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜|80|
+|Airflow|⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜|60|
+|SonarQube|⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜|70|
