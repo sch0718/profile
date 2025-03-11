@@ -73,3 +73,11 @@ gantt
     Kafka       :done, 0, 50
     CI/CD       :done, 0, 70
 ```
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
