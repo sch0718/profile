@@ -3,7 +3,6 @@
 {% else %}
   {% assign show_portfolio = include.show_portfolio | default: site.show_portfolio %}
 {% endif %}
-show_portfolio: {{show_portfolio}}
 
 ### 요기요 데이터 시각화 서비스 리뉴얼
 - 기간: 2023.04 ~ 2024.09
