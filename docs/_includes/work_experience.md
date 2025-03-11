@@ -3,6 +3,11 @@
 {% else %}
   {% assign show_projects_expand = include.show_projects_expand | default: site.show_projects_expand %}
 {% endif %}
+{% if include.show_portfolio == false %}
+  {% assign show_portfolio = false %}
+{% else %}
+  {% assign show_portfolio = include.show_portfolio | default: site.show_portfolio %}
+{% endif %}
 {% assign expand_yogiyo = include.expand_yogiyo | default: site.expand_projects.yogiyo %}
 {% assign expand_megazonecloud = include.expand_megazonecloud | default: site.expand_projects.megazonecloud %}
 {% assign expand_codepost = include.expand_codepost | default: site.expand_projects.codepost %}
@@ -27,7 +32,7 @@
 <summary>📋 프로젝트 상세 보기</summary>
 {% endif %}
 
-{% include_relative projects/yogiyo.md %}
+{% include_relative projects/yogiyo.md show_portfolio=show_portfolio %}
 
 {% if show_projects_expand %}
 </details>
@@ -47,7 +52,7 @@
 <summary>📋 프로젝트 상세 보기</summary>
 {% endif %}
 
-{% include_relative projects/megazonecloud.md %}
+{% include_relative projects/megazonecloud.md show_portfolio=show_portfolio %}
 
 {% if show_projects_expand %}
 </details>
@@ -67,7 +72,7 @@
 <summary>📋 프로젝트 상세 보기</summary>
 {% endif %}
 
-{% include_relative projects/codepost.md %}
+{% include_relative projects/codepost.md show_portfolio=show_portfolio %}
 
 {% if show_projects_expand %}
 </details>
@@ -87,7 +92,7 @@
 <summary>📋 프로젝트 상세 보기</summary>
 {% endif %}
 
-{% include_relative projects/ensystem_2016.md %}
+{% include_relative projects/ensystem_2016.md show_portfolio=show_portfolio %}
 
 {% if show_projects_expand %}
 </details>
@@ -107,7 +112,7 @@
 <summary>📋 프로젝트 상세 보기</summary>
 {% endif %}
 
-{% include_relative projects/ydata.md %}
+{% include_relative projects/ydata.md show_portfolio=show_portfolio %}
 
 {% if show_projects_expand %}
 </details>
@@ -127,7 +132,7 @@
 <summary>📋 프로젝트 상세 보기</summary>
 {% endif %}
 
-{% include_relative projects/ensystem_2015.md %}
+{% include_relative projects/ensystem_2015.md show_portfolio=show_portfolio %}
 
 {% if show_projects_expand %}
 </details>
@@ -147,7 +152,7 @@
 <summary>📋 프로젝트 상세 보기</summary>
 {% endif %}
 
-{% include_relative projects/4csoft.md %}
+{% include_relative projects/4csoft.md show_portfolio=show_portfolio %}
 
 {% if show_projects_expand %}
 </details>
@@ -167,7 +172,7 @@
 <summary>📋 프로젝트 상세 보기</summary>
 {% endif %}
 
-{% include_relative projects/nextweb.md %}
+{% include_relative projects/nextweb.md show_portfolio=show_portfolio %}
 
 {% if show_projects_expand %}
 </details>
@@ -187,7 +192,7 @@
 <summary>📋 프로젝트 상세 보기</summary>
 {% endif %}
 
-{% include_relative projects/swotsoft.md %}
+{% include_relative projects/swotsoft.md show_portfolio=show_portfolio %}
 
 {% if show_projects_expand %}
 </details>
@@ -207,7 +212,7 @@
 <summary>📋 프로젝트 상세 보기</summary>
 {% endif %}
 
-{% include_relative projects/topnwise.md %}
+{% include_relative projects/topnwise.md show_portfolio=show_portfolio %}
 
 {% if show_projects_expand %}
 </details>

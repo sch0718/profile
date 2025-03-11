@@ -9,7 +9,7 @@ show_profile_link: false
 
 {% include about_me.md %}
 
-{% include work_experience.md show_projects_expand=false %}
+{% include work_experience.md show_projects_expand=false show_portfolio=false %}
 
 {% include skills.md %}
 
