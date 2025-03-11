@@ -1,13 +1,16 @@
 # CJ
 - CJ ENM [Mnet Plus] 백엔드 개발
     - 지원경로: 원티드
-    - 서류지원: 
+    - 서류지원: 불합격
 - 올리브영 백엔드 개발 (오프라인 매장 서비스)
     - 지원경로: 채용 홈페이지
     - 서류지원: 불합격
 - [CJ OliveNetworks/경력] Application Modernization Team Lead
     - 지원경로: 채용 홈페이지
-    - 서류지원:
+    - 서류지원: 서류 탈락
+- [CJ OliveNetworks/경력] 클라우드 서비스 플랫폼 개발자
+    - 지원경로: 채용 홈페이지
+    - 서류지원: 불합격
 - [CJ OliveNetworks/경력] 프로젝트 Application Architect
     - https://recruit.cj.net/recruit/ko/recruit/recruit/bestDetail.fo?direct=N&zz_jo_num=J20240207023599
     - 채용시까지
@@ -24,11 +27,7 @@
         - 프론트 기술(Vue, React)에 대한 이해도가 있으신 분
     - 기타 안내사항
         - 채용 프로세스 : 서류전형 > 1차면접 > 2차면접 > CJAT(인성검사),처우협의(평판조회),채용검진 > 최종합격
-- [CJ OliveNetworks/경력] 클라우드 서비스 플랫폼 개발자
-    - https://recruit.cj.net/recruit/ko/recruit/recruit/bestDetail.fo?direct=N&zz_jo_num=J20250117027319
-    - 채용시까지
-    - 클라우드 플랫폼 개발 및 자바 백엔드
-    - 서류전형 > 1차면접 > 2차면접 > 평판조회, 처우협의, CJAT(인성검사) > 채용검진 > 최종합격
+
 
 # SK C&C
 - Tech R&D ㅣ Software Engineering
@@ -42,6 +41,9 @@
 
 # 기아 자동차
 - [ICT] Backend Developer
+    - 지원경로: 채용 홈페이지
+    - 서류지원: 
+- [ICT] Platform Developer
     - 지원경로: 채용 홈페이지
     - 서류지원: 
 
@@ -70,7 +72,8 @@
 # 뉴스젤리
 - 풀스택 웹 개발자 (책임급)
     - 지원경로: 원티드
-    - 서류지원: 
+    - 서류지원: 서류통과
+    - 1차 면접: 3월 13일(목) 11:30 ~ 12:30
 
 # 당근
 - Software Engineer, Data
@@ -84,7 +87,7 @@
 # 두나무
 - Backend Engineer 운영 플랫폼 개발
     - 지원경로: 원티드
-    - 서류지원: 
+    - 서류지원: 불합격
 - Backend Engineer_보안 서비스 개발
     - 지원경로: 원티드
     - 서류지원: 불합격
@@ -98,6 +101,11 @@
 - Backend Group Lead
     - 지원경로: 원티드
     - 서류지원: 불합격
+
+# 배달의민족
+- [Tech] CS 프로덕트실 백엔드 개발자
+    - 지원경로: 채용 홈페이지
+    - 서류지원: 
 
 # 브레인커머스
 - [잡플래닛] Software Architect(Team Lead)
@@ -135,7 +143,7 @@
 # 자비스앤빌런즈(삼쩜삼)
 - Backend Engineer(신사업)
     - 지원경로: 원티드
-    - 서류지원: 
+    - 서류지원: 불합격
 
 
 # 카카오 뱅크
@@ -148,6 +156,14 @@
     - 지원경로: 원티드
     - 서류지원: 불합격
 - AI서비스 서버개발자
+    - 지원경로: 원티드
+    - 서류지원: 
+
+# 쿠팡
+- 쿠팡 이츠_Senior/Staff Backend Engineer
+    - 지원경로: 원티드
+    - 서류지원: 
+- [쿠팡페이] Staff, Back-end Engineer (Payment)
     - 지원경로: 원티드
     - 서류지원: 
 
