@@ -1,4 +1,8 @@
-{% assign show_portfolio = include.show_portfolio | default: site.show_portfolio %}
+{% if include.show_portfolio == false %}
+  {% assign show_portfolio = false %}
+{% else %}
+  {% assign show_portfolio = include.show_portfolio | default: site.show_portfolio %}
+{% endif %}
 show_portfolio: {{show_portfolio}}
 
 ### 요기요 데이터 시각화 서비스 리뉴얼

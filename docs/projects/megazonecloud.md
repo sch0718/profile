@@ -1,4 +1,8 @@
-{% assign show_portfolio = include.show_portfolio | default: site.show_portfolio %}
+{% if include.show_portfolio == false %}
+  {% assign show_portfolio = false %}
+{% else %}
+  {% assign show_portfolio = include.show_portfolio | default: site.show_portfolio %}
+{% endif %}
 
 ### 대한항공 Cloud 환경 구축 및 DevOps 솔루션 도입
 - 기간: 2019.11 ~ 2020.02

@@ -1,4 +1,8 @@
-{% assign show_portfolio = include.show_portfolio | default: site.show_portfolio %}
+{% if include.show_portfolio == false %}
+  {% assign show_portfolio = false %}
+{% else %}
+  {% assign show_portfolio = include.show_portfolio | default: site.show_portfolio %}
+{% endif %}
 
 ### Hybrid-Cloud 개발 환경 자동화 구축 서비스 개발
 - 기간: 2018.02 ~ 2018.06
