@@ -72,4 +72,4 @@ gantt
     GCP         :done, 0, 60
     Kafka       :done, 0, 50
     CI/CD       :done, 0, 70
----
+```
