@@ -9,8 +9,14 @@ show_profile_link: false
 
 {% include_relative portfolio/yoda.md %}
 
+---
+
 {% include_relative portfolio/ilogyo.md %}
 
+---
+
 {% include_relative portfolio/mc_gaudi.md %}
+
+---
 
 {% include_relative portfolio/metrom.md %}

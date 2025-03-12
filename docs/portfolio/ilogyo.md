@@ -1,15 +1,12 @@
----
-title: I.Log.Yo
-layout: profile
----
+{% assign image_path = '/assets/images' | relative_url %}
 
 # I.Log.Yo (요기요 사용자 행동 로그 관리, 수집 및 정합성 체크, 로그 분석 통계 서비스)
 
 ## Architecture
 
-![Force Architecture](../assets/images/ilogyo1.png)
+![Force Architecture]({{ image_path }}/ilogyo1.png)
 
-![Log-Validator](../assets/images/ilogyo2.png)
+![Log-Validator]({{ image_path }}/ilogyo2.png)
 
 - I.Log.Yo: 요기요의 다양한 앱(일반 사용자 주문 앱, 라이더 앱, 사장님 앱 등)에서 발생하는 사용자들의 행동 로그를 정의하고, 관리하는 서비스.
     - I.Log.Yo FE (React), I.Log.Yo BE (FastAPI)로 구성

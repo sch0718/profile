@@ -1,7 +1,3 @@
----
-title: YoDa
-layout: profile
----
 {% assign image_path = '/assets/images' | relative_url %}
 
 # YoDa (요기요 데이터 시각화 서비스)
