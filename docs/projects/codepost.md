@@ -14,13 +14,7 @@
 - Framework/Tool: Spring Boot, JPA, MyBatis, Maven, Nexus, Jenkins, SonarQube, GitLab, Docker, jQuery
 - 직무 경험 및 성과: 데브옵스 엔지니어들과 협업을 통한 서비스 개발 및 오픈, 클라우드 및 컨테이너 환경에서 개발 경험
 {% if show_portfolio %}
-- 서비스 시연 영상:
-  - APM:  
-  [![APM](https://img.youtube.com/vi/NlNKjP0gbbs/0.jpg)](https://www.youtube.com/watch?v=NlNKjP0gbbs){:target="_blank"}
-  - Eclipse Che:  
-  [![Eclipse Che](https://img.youtube.com/vi/lRIVLFltws0/0.jpg)](https://www.youtube.com/watch?v=lRIVLFltws0){:target="_blank"}
-  - NextCloud:  
-  [![NextCloud](https://img.youtube.com/vi/9bYkeaDSdFs/0.jpg)](https://www.youtube.com/watch?v=9bYkeaDSdFs){:target="_blank"}
+- 포트폴리오: [Metrom](./portfolio/metrom){:target="_blank"}
 {% endif %}
 
 ### 현대카드 빅데이터 검색 포털 시스템 (Shpere) 구축

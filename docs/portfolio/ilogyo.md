@@ -23,4 +23,5 @@
 
 ## Debug 앱 시연 영상
 
-[![시연 영상](https://img.youtube.com/vi/HeyBH8Y3UFc/0.jpg)](https://youtube.com/shorts/HeyBH8Y3UFc){:target="_blank"}
+[![시연 영상](https://img.youtube.com/vi/HeyBH8Y3UFc/0.jpg)](https://youtube.com/shorts/HeyBH8Y3UFc){:target="_blank"}  
+[원본영상](https://youtube.com/shorts/HeyBH8Y3UFc)
