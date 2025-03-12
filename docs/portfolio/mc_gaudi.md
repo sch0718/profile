@@ -50,12 +50,12 @@ Well-made CI/CD pipeline template을 통해 간단한 정보 입력만으로도 
 
 McWrapper는 사용자에게 개발 업무 결재 프로 세스를 확인 및 요청/처리 등을 하는 창구 역할을 합니다. 이 해당 창구를 통해 McGaiver의 CI/CD Pipeline를 기반으로 개발/배포 시스템을 자동으로 처리합니다.
 
-[![How to work on the git branch by McWrapper](https://img.youtube.com/vi/5lVDMMUdZmw/0.jpg)](https://youtu.be/5lVDMMUdZmw){:target="_blank"}
-
-[![Group & Releationship](https://img.youtube.com/vi/Wgw8eMYbj5c/0.jpg)](https://youtu.be/Wgw8eMYbj5c){:target="_blank"}
-
+- McWrapper를 통한 요청에서 배포까지의 그룹 및 관계  
+    [![Group & Releationship for request to release via the McWrapper](https://img.youtube.com/vi/Wgw8eMYbj5c/0.jpg)](https://youtu.be/Wgw8eMYbj5c){:target="_blank"}
 - Workflow  
     ![WorkFlow]({{ image_path }}/workflow.png)
+    - Workflow 흐름에 따른 git 브랜치 동작 방식  
+        [![How to work on the git branch by McWrapper](https://img.youtube.com/vi/5lVDMMUdZmw/0.jpg)](https://youtu.be/5lVDMMUdZmw){:target="_blank"}
 - MSA(MicroService Architecture) Version  
     ![MSA Architecture]({{ image_path }}/msa_architecture.png)
 - Monolithic Version  
