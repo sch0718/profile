@@ -2,6 +2,10 @@
 
 # MC Gaudi
 
+## 2019 Pivotal Cloud Native Day 발표 영상
+
+[![발표 영상](https://img.youtube.com/vi/F_GFwZRAaM8/0.jpg)](https://youtu.be/F_GFwZRAaM8?si=AxXgPWSd_k1J8khn){:target="_blank"}
+
 ## 제품 소개
 
 McGaudi는 업무 프로세스와 도구 등을 DevOps 관점에서
@@ -45,6 +49,10 @@ Well-made CI/CD pipeline template을 통해 간단한 정보 입력만으로도 
 ### McWrapper?
 
 McWrapper는 사용자에게 개발 업무 결재 프로 세스를 확인 및 요청/처리 등을 하는 창구 역할을 합니다. 이 해당 창구를 통해 McGaiver의 CI/CD Pipeline를 기반으로 개발/배포 시스템을 자동으로 처리합니다.
+
+[![How to work on the git branch by McWrapper](https://img.youtube.com/vi/5lVDMMUdZmw/0.jpg)](https://youtu.be/5lVDMMUdZmw){:target="_blank"}
+
+[![Group & Releationship](https://img.youtube.com/vi/Wgw8eMYbj5c/0.jpg)](https://youtu.be/Wgw8eMYbj5c){:target="_blank"}
 
 - Workflow  
     ![WorkFlow]({{ image_path }}/workflow.png)

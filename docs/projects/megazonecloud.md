@@ -24,6 +24,5 @@
 - Framework/Tool: Spring Cloud, JPA, MyBatis, Concourse CI, Maven, Nexus, SonarQube, GitLab, Docker
 - 직무 경험 및 성과: **SaaS를 위한 multi-tenancy 아키텍처 설계 및 개발**, 2019 Pivotal Cloud Native Day에 서비스 소개
 {% if show_portfolio %}
-- 발표 영상:  
-[![발표 영상](https://img.youtube.com/vi/F_GFwZRAaM8/0.jpg)](https://youtu.be/F_GFwZRAaM8?si=AxXgPWSd_k1J8khn){:target="_blank"}
+- 포트폴리오: [MC Gaudi](./portfolio/mc_gaudi)
 {% endif %}
