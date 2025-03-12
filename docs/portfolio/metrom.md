@@ -1,6 +1,6 @@
 {% assign image_path = '/assets/images/metrom' | relative_url %}
 
-# Metrom (Hybrid-Cloud 개발 환경 자동화 구축 서비스 개발)
+# Metrom (Hybrid-Cloud 개발 환경 자동화 구축 서비스)
 
 ## Metrom?
 
