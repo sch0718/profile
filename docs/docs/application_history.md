@@ -7,10 +7,10 @@
     - 서류지원: 불합격
 - [CJ OliveNetworks/경력] Application Modernization Team Lead
     - 지원경로: 채용 홈페이지
-    - 서류지원: 서류 탈락
+    - 서류지원: 불합격
 - [CJ OliveNetworks/경력] 클라우드 서비스 플랫폼 개발자
     - 지원경로: 채용 홈페이지
-    - 서류지원: 불합격
+    - 서류지원: 
 - [CJ OliveNetworks/경력] 프로젝트 Application Architect
     - https://recruit.cj.net/recruit/ko/recruit/recruit/bestDetail.fo?direct=N&zz_jo_num=J20240207023599
     - 채용시까지
@@ -110,7 +110,7 @@
 # 브레인커머스
 - [잡플래닛] Software Architect(Team Lead)
     - 지원경로: 원티드
-    - 서류지원: 
+    - 서류지원: 불합격
 
 # 센드버드코리아
 - Software Engineer (Server Applications)
