@@ -42,9 +42,9 @@ Well-made CI/CD pipeline template을 통해 간단한 정보 입력만으로도 
 
 ![McGaudi Life Cycle]({{ image_path }}/product_desc_mc_gaudi_life_cycle.png)
 
-### 시스템 구성도
+### Architecture Overview
 
-![Architecture]({{ image_path }}/install_arch.png)
+![Architecture Overview]({{ image_path }}/install_arch.png)
 
 ### McWrapper?
 
@@ -57,9 +57,9 @@ McWrapper는 사용자에게 개발 업무 결재 프로 세스를 확인 및 �
 - Workflow  
     ![WorkFlow]({{ image_path }}/workflow.png)
 - MSA(MicroService Architecture) Version  
-    ![Architecture]({{ image_path }}/msa_architecture.png)
+    ![MSA Architecture]({{ image_path }}/msa_architecture.png)
 - Monolithic Version  
-    ![Architecture]({{ image_path }}/monolithic_architecture.png)
+    ![Monolithic Architecture]({{ image_path }}/monolithic_architecture.png)
 
 ---
 
