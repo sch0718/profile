@@ -1,5 +1,5 @@
 ---
-title: 신춘호 이력서
+title: 신춘호 포트폴리오
 layout: profile
 show_downloads: false
 show_profile_link: false
