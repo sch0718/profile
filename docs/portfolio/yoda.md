@@ -2,12 +2,13 @@
 title: YoDa
 layout: profile
 ---
+{% assign image_path = '/assets/images' | append: site.github.build_revision | relative_url %}
 
 # YoDa (요기요 데이터 시각화 서비스)
 
 ## YoDa란?
 
-![YoDa란?](/assets/images/yoda1.png)
+![YoDa란?]({{ image_path }}/yoda1.png)
 
 - Yogiyo Data 를 조회, 분석, 활용할 수 있는 플랫폼
 - 가게 컨설팅 등 운영성 업무를 위한 데이터 Insight 및 대시보드 제공
@@ -25,7 +26,7 @@ layout: profile
 
 ## 주요 기능
 
-![Discovery Analyzed Data](/assets/images/yoda2.png)
+![Discovery Analyzed Data]({{ image_path }}/yoda2.png)
 
 - Data Visualization
     - 화면 내 조작을 통한 Interactive한 데이터 시각화
@@ -38,7 +39,7 @@ layout: profile
 
 ### Sales Funnel Support
 
-![Sales Funnel Support](/assets/images/yoda3.png)
+![Sales Funnel Support]({{ image_path }}/yoda3.png)
 
 - MG 본부, LE 본부에서 OD 서비스 지역을 확인하고, 영업할 대
 상 가게를 선정하는 용도로 사용
@@ -55,7 +56,7 @@ layout: profile
 
 ### R2D2
 
-![R2D2](/assets/images/yoda4.png)
+![R2D2]({{ image_path }}/yoda4.png)
 
 - 요기요 사용자가 작성한 리뷰를 이미지/텍스트 분석을 통하여
 생성된 메타 데이터 제공
@@ -64,6 +65,6 @@ layout: profile
 
 ### Forecasting
 
-![Forecasting](/assets/images/yoda5.png)
+![Forecasting]({{ image_path }}/yoda5.png)
 
 - 예측모델(Prophet)을 이용하여 요기요 서비스의 수요/주문을 예측하여 제공
