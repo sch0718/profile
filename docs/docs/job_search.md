@@ -13,6 +13,9 @@
 # CJ
 - 채용공고: [CJ 채용 페이지](https://recruit.cj.net/recruit/ko/mypage/support_info/support_info.fo){:target="_blank"}
 
+# 배달의민족
+- 채용공고: [배민 채용 페이지](https://career.woowahan.com/?category=jobGroupCodes%3ABA005001&jobCodes=&employmentTypeCodes=&serviceSectionCodes=&careerPeriod=&keyword=#recruit-list)
+
 # 오토에버
 - 채용공고: [오토에버 홈페이지](https://career.hyundai-autoever.com/apply)
 
