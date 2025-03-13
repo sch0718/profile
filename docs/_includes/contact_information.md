@@ -1,4 +1,8 @@
-{% assign show_profile_url = include.show_profile_url | default: true %}
+{% if include.show_profile_url == false %}
+  {% assign show_profile_url = false %}
+{% else %}
+  {% assign show_profile_url = include.show_profile_url | default: true %}
+{% endif %}
 
 # 📬 연락처
 
