@@ -3,7 +3,7 @@ title: 신춘호 Profile
 show_portfolio: false
 ---
 
-{% include contact_information.md show_portfolio=false %}
+{% include contact_information.md show_profile_url=false %}
 
 {% include about_me.md %}
 

@@ -23,9 +23,7 @@
 - Data Platform/DBMS: BigQuery, PostgreSQL, GCP Pub/Sub, Redis
 - Framework/Tool: FastAPI, SQLAlchemy, poetry, pandas, NextJS, Helm, skaffold, Terraform, ArgoCD, Datadog, Github, Github Action, Docker, Airflow, Jupyter Notebook, EChart, Material UI
 - 직무 경험 및 성과: **대용량의 데이터(로그, 일 1억건 이상)를 처리할 수 있는 아키텍처 설계**, **로그의 품질 향상(60%~70% → 95% 이상)**을 통한 데이터 분석 신뢰도 향상 및 서비스 품질 개선에 기여
-{% if show_portfolio %}
-- 포트폴리오: [I.Log.Yo](./portfolio/ilogyo){:target="_blank"}
-{% endif %}
+{% if show_portfolio %}- 포트폴리오: [I.Log.Yo](./portfolio/ilogyo){:target="_blank"}{% endif %}
 
 ### 배달 시간 예측 모델 실시간 서빙 서비스 구축
 - 기간: 2022.09 ~ 2023.03
@@ -46,9 +44,7 @@
 - Data Platform/DBMS: BigQuery, PostgreSQL, Elasticsearch, Redis
 - Framework/Tool: Flask, SQLAlchemy, poetry, pandas, Helm, skaffold, Kibana, Bitbucket, Docker, Jupyter Notebook, EChart, Leaflet, Ant Design
 - 직무 경험 및 성과: **AI/ML 개발/서비스 환경 구축 및 API 서빙**, 가게 랭킹 시뮬레이션을 통한 추천 서비스 개선에 기여, 리뷰 어뷰징 및 욕설 감지 서비스를 통한 CS 업무 효율 증대에 기여
-{% if show_portfolio %}
-- 포트폴리오: [YoDa](./portfolio/yoda){:target="_blank"}
-{% endif %}
+{% if show_portfolio %}- 포트폴리오: [YoDa](./portfolio/yoda){:target="_blank"}{% endif %}
 
 ### 요기요 데이터 시각화 서비스 구축
 - 기간: 2020.04 ~ 2020.09
@@ -59,6 +55,4 @@
 - Data Platform/DBMS: BigQuery, PostgreSQL, Elasticsearch, Redis
 - Framework/Tool: Flask, SQLAlchemy, poetry, pandas, Helm, skaffold, Tekton, Kibana, Bitbucket, Docker, Jupyter Notebook, EChart, Leaflet, Ant Design, bokeh
 - 직무 경험 및 성과: redash를 커스터마이즈한 BI 서비스가 AWS에서 운영중이었고 GCP에 새로 환경을 구축하게 되면서 **multi-cloud 환경** 경험, **Cloud/k8s 환경에 직접 인프라 구축**, Data Scientist/Analyst 와 협업을 통해 그들의 개발 환경(Jupyter Notebook, pandas 등)을 경험, 서비스 측면에서 다양한 사용자들(임원, 데이터 분석가, 영업 및 마케팅 실무자)의 요구에 맞는 기획 및 구현 방법을 고민하고 개발, 지도 시각화 및 지리 정보 관련 데이터 처리 및 개발
-{% if show_portfolio %}
-- 포트폴리오: [YoDa](./portfolio/yoda){:target="_blank"}
-{% endif %}
+{% if show_portfolio %}- 포트폴리오: [YoDa](./portfolio/yoda){:target="_blank"}{% endif %}

@@ -13,9 +13,7 @@
 - Data Platform/DBMS: MariaDB
 - Framework/Tool: Spring Boot, JPA, MyBatis, Maven, Nexus, Jenkins, SonarQube, GitLab, Docker, jQuery
 - 직무 경험 및 성과: 데브옵스 엔지니어들과 협업을 통한 서비스 개발 및 오픈, 클라우드 및 컨테이너 환경에서 개발 경험
-{% if show_portfolio %}
-- 포트폴리오: [Metrom](./portfolio/metrom){:target="_blank"}
-{% endif %}
+{% if show_portfolio %}- 포트폴리오: [Metrom](./portfolio/metrom){:target="_blank"}{% endif %}
 
 ### 현대카드 빅데이터 검색 포털 시스템 (Shpere) 구축
 - 기간: 2017.06 ~ 2018.01
