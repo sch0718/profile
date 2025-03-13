@@ -4,7 +4,9 @@ show_downloads: false
 show_profile_link: false
 ---
 
-{% include contact_information.md show_portfolio=true %}
+{% include contact_information.md %}
+
+---
 
 {% include_relative portfolio/yoda.md %}
 

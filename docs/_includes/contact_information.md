@@ -1,4 +1,4 @@
-{% assign show_portfolio = include.show_profile_url | false %}
+{% assign show_portfolio = include.show_portfolio | default: site.show_portfolio %}
 
 # 📬 연락처
 

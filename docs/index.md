@@ -2,7 +2,7 @@
 title: 신춘호 Profile
 ---
 
-{% include contact_information.md %}
+{% include contact_information.md show_portfolio=false %}
 
 {% include about_me.md %}
 
