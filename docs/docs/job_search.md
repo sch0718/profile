@@ -13,6 +13,9 @@
 # CJ
 - 채용공고: [CJ 채용 페이지](https://recruit.cj.net/recruit/ko/mypage/support_info/support_info.fo){:target="_blank"}
 
+# 오토에버
+- 채용공고: [오토에버 홈페이지](https://career.hyundai-autoever.com/apply)
+
 # 원티드
 - 북마크: [원티드 북마크](https://www.wanted.co.kr/profile/bookmarks){:target="_blank"}
 
