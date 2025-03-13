@@ -11,22 +11,9 @@
 - [CJ OliveNetworks/경력] 클라우드 서비스 플랫폼 개발자
     - 지원경로: 채용 홈페이지
     - 서류지원: 
-- [CJ OliveNetworks/경력] 프로젝트 Application Architect
-    - https://recruit.cj.net/recruit/ko/recruit/recruit/bestDetail.fo?direct=N&zz_jo_num=J20240207023599
-    - 채용시까지
-    - 지원자격
-        - 총 경력 7년 이상
-        - Java, Kotlin, SpringBoot 백엔드 개발 경험 5년 이상
-        - API/비동기 기반 분산 아키텍처 환경에서 설계 및 개발 경험
-        - RDB, Kafka, Redis, MongoDB 등 오픈소스 활용 경험
-        - 컨테이너(Docker, k8s) 기반 어플리케이션 구성 경험
-    - 우대사항
-        - CloudNative, PublicCloud 활용한 AM 및 MSA 전환 프로젝트 경험 있으신 분 (REST API, ApiGateway, EventDriven, DDD, k8s, ECS/EKS, ArgoCD, Observability 등 기술활용)
-        - AA 수행 유경험자 또는 AA로 성장하고 싶은 분
-        - Framework 개발 업무 경험이 있는 분
-        - 프론트 기술(Vue, React)에 대한 이해도가 있으신 분
-    - 기타 안내사항
-        - 채용 프로세스 : 서류전형 > 1차면접 > 2차면접 > CJAT(인성검사),처우협의(평판조회),채용검진 > 최종합격
+- [티빙] 백엔드 개발자 (Backend Developer) 경력채용
+    - 지원경로 채용 홈페이지
+    - 서류지원: 
 
 
 # SK C&C
@@ -73,7 +60,7 @@
 - 풀스택 웹 개발자 (책임급)
     - 지원경로: 원티드
     - 서류지원: 서류통과
-    - 1차 면접: 3월 13일(목) 11:30 ~ 12:30
+    - 1차 면접: 
 
 # 당근
 - Software Engineer, Data
@@ -345,45 +332,9 @@
     - 기타 안내사항
         - 서류 접수 → 서류 검토 → 직무역량테스트(코딩 또는 과제테스트) 및 인성검사 → 1차면접 → 2차면접 
       → 처우협의 및 채용검진 → 최종 합격🎉
-- [M&C] Backend Developer - 모빌리티/커넥티드카 서비스 개발 (집중채용)
-    - https://career.hyundai-autoever.com/o/142168
-    - 2025.03.26까지
-    - 지원자격
-        - Java, Spring Framework, Spring Boot 등의 Back-end 개발 역량 보유
-        - RESTful API 개발 경험 및 Rest의 의미 이해, 외부 연계 서비스 개발 경험 보유
-        - 데이터베이스 설계 및 연동 경험, RDB 및 비정형, 고급 SQL 역량 보유
-    - 우대사항
-        - AWS 등 클라우드 플랫폼 사용 경험 보유
-        - CI/CD(Gitlab, Jenkins) Tool chain 기반 사용 경험 보유
-        - 파이프라인 구성 경험(실제 업무 환경 우대) 보유
-        - K8S 및 서버, 시스템 관련 구축, 운영, 트러블슈팅 경험 보유
-            ※ 위 사항 외에도, 새로운 기술을 배우고 적용하는데 관심과 열정이 있는 분들을 환영해요. 지원서에 다양한 경험과 스킬을 자유롭게 작성 해주세요. 여러분들의 독특한 배경과 다채로운 기술 스택이 팀에 큰 가치를 더할 수 있어요. 🤗 
-
-            예시) 다양한 개발 언어(go, golang 등), Front-end 개발 경험, 보안 분야에 대한 이해(차량 사이버 보안 등), 대량 데이터 연계(Kafka, Spring task scheduler, EAI 등) 기타 등등 보유한 경험/기술 스택 자유롭게 작성
-    - 기타 안내사항
-        - 서류 접수 → 서류 검토 → 직무역량테스트(코딩 또는 과제테스트) 및 인성검사 → 1차면접 → 2차면접 
-      → 처우협의 및 채용검진 → 최종 합격🎉
 - [M&C] Backend Developer - 이커머스 시스템 개발 및 운영
-    - https://career.hyundai-autoever.com/o/147758
-    - 2025.03.26까지
-    - 지원자격
-        - Java, Spring, Spring Boot 등을 활용한 백엔드 개발 역량
-        - DBMS 설계, PL/SQL 역량
-        - MyBatis, Hibernate, JPA 등 ORM 개발 역량
-        - Rest API 개발 및 타 시스템과의 연동 개발 역량
-        - 테스트 코드 작성 및 유닛 테스트, 통합 테스트 등의 테스트 방법 설계 역량
-        - Git, Jenkins, ArgoCD 등 CI/CD Tool 사용 역량
-        - AWS(Amazon Web Service) 에 대한 지식과 AWS 환경에서의 구축 및 개발 경험
-    - 우대사항
-        - 이커머스 분야 실무 개발 및 운영 경험
-        - DBMS 및 SQL Query 튜닝을 통한 Data 성능 개선 경험
-        - Cloud 기술(k8s, docker) 환경의 MSA 기반 개발 경험
-        - 백엔드 SW 구조 설계 및 개발 모듈 리딩 경험
-        - 플랫폼 서비스 개발 경험
-        - 글로벌 서비스 개발 및 운영 경험
-    - 기타 안내사항
-        - 서류 접수 → 서류 검토 → 직무역량테스트(코딩 또는 과제테스트) 및 인성검사 → 1차면접 → 2차면접 
-      → 처우협의 및 채용검진 → 최종 합격🎉
+    - 지원경로: 채용 홈페이지
+    - 서류지원: 
 
 # 현대 자동차
 - [ICT] Backend Developer
