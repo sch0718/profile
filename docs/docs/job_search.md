@@ -8,6 +8,9 @@ title: 채용 사이트
 # 라인
 - 채용공고: [라인 채용 페이지](https://careers.linecorp.com/ko/jobs?ca=Engineering&ci=Gwacheon,Bundang,Seoul&co=East%20Asia&fi=Server-side,Tech%20Management,Web%20Development,Data%20Engineering,Project%20Management&ty=Full-time,Full-time%20%28Entry%20level%29)
 
+# 카카오
+- 채용공고: [카카오 채용 페이지](https://careers.kakao.com/jobs?skillSet=&part=TECHNOLOGY&company=ALL&keyword=&employeeType=0&page=1)
+
 # SK
 - 채용공고: [SK 채용 페이지](https://www.skcareers.com/Recruit){:target="_blank"}
 
