@@ -6,10 +6,10 @@ title: 채용 사이트
 - 채용공고: [네이버 채용 페이지](https://recruit.navercorp.com/rcrt/list.do?subJobCdArr=1010004%2C1010006%2C1010020%2C1050001%2C1060001&sysCompanyCdArr=&empTypeCdArr=0010&entTypeCdArr=0020&workAreaCdArr=0010%2C0020&sw=&subJobCdData=1010004&subJobCdData=1010006&subJobCdData=1010020&subJobCdData=1050001&subJobCdData=1060001&empTypeCdData=0010&entTypeCdData=0020&workAreaCdData=0010&workAreaCdData=0020){:target="_blank"}
 
 # 라인
-- 채용공고: [라인 채용 페이지](https://careers.linecorp.com/ko/jobs?ca=Engineering&ci=Gwacheon,Bundang,Seoul&co=East%20Asia&fi=Server-side,Tech%20Management,Web%20Development,Data%20Engineering,Project%20Management&ty=Full-time,Full-time%20%28Entry%20level%29)
+- 채용공고: [라인 채용 페이지](https://careers.linecorp.com/ko/jobs?ca=Engineering&ci=Gwacheon,Bundang,Seoul&co=East%20Asia&fi=Server-side,Tech%20Management,Web%20Development,Data%20Engineering,Project%20Management&ty=Full-time,Full-time%20%28Entry%20level%29){:target="_blank"}
 
 # 카카오
-- 채용공고: [카카오 채용 페이지](https://careers.kakao.com/jobs?skillSet=&part=TECHNOLOGY&company=ALL&keyword=&employeeType=0&page=1)
+- 채용공고: [카카오 채용 페이지](https://careers.kakao.com/jobs?skillSet=&part=TECHNOLOGY&company=ALL&keyword=&employeeType=0&page=1){:target="_blank"}
 
 # SK
 - 채용공고: [SK 채용 페이지](https://www.skcareers.com/Recruit){:target="_blank"}
@@ -24,7 +24,7 @@ title: 채용 사이트
 - 채용공고: [CJ 채용 페이지](https://recruit.cj.net/recruit/ko/mypage/support_info/support_info.fo){:target="_blank"}
 
 # 배달의민족
-- 채용공고: [배민 채용 페이지](https://career.woowahan.com/?category=jobGroupCodes%3ABA005001&jobCodes=&employmentTypeCodes=&serviceSectionCodes=&careerPeriod=&keyword=#recruit-list)
+- 채용공고: [배민 채용 페이지](https://career.woowahan.com/?category=jobGroupCodes%3ABA005001&jobCodes=&employmentTypeCodes=&serviceSectionCodes=&careerPeriod=&keyword=#recruit-list){:target="_blank"}
 
 # 오토에버
 - 채용공고: [오토에버 홈페이지](https://career.hyundai-autoever.com/apply)
