@@ -4,9 +4,9 @@
 
 <table width="100%">
     <tr>
-        <td width="200px">이름</td>
-        <td width="">신춘호</td>
-        <td width="210px" align="center" rowspan="3"><img src="{{ image_path }}/photo.jpg" alt="프로필사진" width="200px" /></td>
+        <td width="20%">이름</td>
+        <td width="40%">신춘호</td>
+        <td width="20%" align="right" rowspan="3"><img src="{{ image_path }}/photo.jpg" alt="프로필사진" width="200px" /></td>
     </tr>
     <tr>
         <td>생년월일</td>
