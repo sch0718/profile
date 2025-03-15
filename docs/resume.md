@@ -4,6 +4,8 @@ show_downloads: false
 show_profile_link: false
 ---
 
+{% include privacy_info.md %}
+
 {% include contact_information.md %}
 
 {% include about_me.md %}
