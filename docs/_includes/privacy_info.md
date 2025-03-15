@@ -6,7 +6,7 @@
     <tr>
         <td width="100px">이름</td>
         <td width="300px">신춘호</td>
-        <td width="" rowspan="3" align="right"><img src="../assets/images/photo.jpg" alt="프로필사진" width="200px" /></td>
+        <td width="" rowspan="3" align="right"><img src="{{ image_path }}/photo.jpg" alt="프로필사진" width="200px" /></td>
     </tr>
     <tr>
         <td>생년월일</td>
