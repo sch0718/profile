@@ -27,10 +27,13 @@ title: 채용 사이트
 - 채용공고: [배민 채용 페이지](https://career.woowahan.com/?category=jobGroupCodes%3ABA005001&jobCodes=&employmentTypeCodes=&serviceSectionCodes=&careerPeriod=&keyword=#recruit-list){:target="_blank"}
 
 # 오토에버
-- 채용공고: [오토에버 홈페이지](https://career.hyundai-autoever.com/apply)
+- 채용공고: [오토에버 홈페이지](https://career.hyundai-autoever.com/apply){:target="_blank"}
 
 # 원티드
 - 북마크: [원티드 북마크](https://www.wanted.co.kr/profile/bookmarks){:target="_blank"}
+
+# 링크드인
+- 채용공고: [링크드인 채용 페이지](https://www.linkedin.com/jobs/collections/it-services-and-it-consulting/?currentJobId=4145355414&discover=recommended&discoveryOrigin=JOBS_HOME_JYMBII){:target="_blank"}
 
 # 잡코리아
 - 채용공고: [잡코리아 채용 페이지](https://www.jobkorea.co.kr/recruit/joblist?menucode=local&localorder=1){:target="_blank"}
