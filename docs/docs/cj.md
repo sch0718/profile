@@ -49,7 +49,7 @@
 - 개발 환경: AWS(EC2), Container, Linux, Embedded Tomcat
 - 개발 언어: Java, JSP, javascript, CSS, shell script
 - Data Platform/DBMS: MariaDB
-- Framework/Tool: Spring Boot, JPA, MyBatis, Maven, Nexus, Jenkins, SonarQube, GitLab, Docker, jQuery경험
+- Framework/Tool: Spring Boot, JPA, MyBatis, Maven, Nexus, Jenkins, SonarQube, GitLab, Docker, jQuery
 
 # 현대카드 빅데이터 검색 포털 시스템 (Shpere) 구축
 - 기간: 2017.06 ~ 2018.01
