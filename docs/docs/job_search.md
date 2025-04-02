@@ -76,7 +76,7 @@ title: 채용 사이트
 
 # 링크드인
 - 채용공고: [링크드인 채용 페이지](https://www.linkedin.com/jobs/collections/it-services-and-it-consulting/?currentJobId=4145355414&discover=recommended&discoveryOrigin=JOBS_HOME_JYMBII){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.02
 
 # 블라인드 하이어
 - 채용공고: [블라인드 채용공고](https://www.blindhire.co.kr/job?jobFunctionId=4&jobSubFunctionIds=42,218,220&yearOfExperience=0to10&employeeSize=1to10000&orderBy=recommend){:target="_blank"}
