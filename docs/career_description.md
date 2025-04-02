@@ -4,7 +4,7 @@ show_downloads: false
 show_profile_link: false
 ---
 
-
+{% include contact_information.md %}
 
 {% include work_experience.md show_projects_expand=false %}
 
