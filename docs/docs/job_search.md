@@ -8,72 +8,71 @@ title: 채용 사이트
 
 # 라인
 - 채용공고: [라인 채용 페이지](https://careers.linecorp.com/ko/jobs?ca=Engineering&ci=Gwacheon,Bundang,Seoul&co=East%20Asia&fi=Server-side,Tech%20Management,Web%20Development,Data%20Engineering,Project%20Management&ty=Full-time,Full-time%20%28Entry%20level%29){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.02
 
 # 카카오
 - 채용공고: [카카오 채용 페이지](https://careers.kakao.com/jobs?skillSet=&part=TECHNOLOGY&company=ALL&keyword=&employeeType=0&page=1){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.02
 
 # 카카오 모빌리티
 - 채용공고: [카카오 모빌리티 채용 페이지](https://kakaomobility.career.greetinghr.com/guide){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.02
 
 # 카카오 페이
 - 채용공고: [카카오 페이 채용 페이지](https://kakaopay.career.greetinghr.com/main?subsidiaries=%EA%B8%B0%EC%88%A0&careers=EXPERIENCED&employments=FULL_TIME_WORKER){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.02
 
 # 카카오 뱅크
 - 채용공고: [카카오 뱅크 채용 페이지](https://recruit.kakaobank.com/jobs){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.02
 
 # 카카오 스타일
 - 채용공고: [카카오 스타일 채용 페이지](https://career.kakaostyle.com/jobs?careers=EXPERIENCED&employments=FULL_TIME_WORKER){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.02
 
 # 카카오 엔터프라이즈
 - 채용공고: [카카오 엔터프라이즈 채용 페이지](https://careers.kakaoenterprise.com/job?careers=EXPERIENCED&employments=FULL_TIME_WORKER){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.02
 
 # 카카오 헬스케어
-# 카카오 헬스케어
 - 채용공고: [카카오 헬스케어 채용 페이지](https://recruit.kakaohealthcare.com/recruit){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.02
 
 # 카카오 게임즈
 - 채용공고: [카카오 게임즈 채용 페이지](https://recruit.kakaogames.com/joinjuskr?occupations=%EA%B0%9C%EB%B0%9C&careers=EXPERIENCED&employments=FULL_TIME_WORKER){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.02
 
 # SK
 - 채용공고: [SK 채용 페이지](https://www.skcareers.com/Recruit){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.02
 
 # 기아
 - 채용공고: [기아 채용 페이지](https://career.kia.com/apply/applyList.kc?nfGubnC=37268bb0020007468bbc5a78ee13a6539b0a0a79bbfcdd7ad08406e8d43cd55f&searchText=){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.02
 
 # 현대자동차
 - 채용공고: [현대자동차 채용 페이지](https://talent.hyundai.com/apply/applyList.hc?nfGubnC=ac85892205b92e8cecdc87185a3fbf039f04b2a7751ccf0e8a1f547d53b9945a&tagArray=&sortDataTagArray=&areaDataTagArray=&fieldDataTagArray=&occupDataTagArray=211&intnsvYn=){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.02
 
 # CJ
 - 채용공고: [CJ 채용 페이지](https://recruit.cj.net/recruit/ko/mypage/support_info/support_info.fo){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.02
 
 # 배달의민족
 - 채용공고: [배민 채용 페이지](https://career.woowahan.com/?category=jobGroupCodes%3ABA005001&jobCodes=&employmentTypeCodes=&serviceSectionCodes=&careerPeriod=&keyword=#recruit-list){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.02
 
 # 오토에버
 - 채용공고: [오토에버 홈페이지](https://career.hyundai-autoever.com/apply){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.02
 
 # 한화
 - 채용공고: [한화그룹 채용 페이지](https://www.hanwhain.com/web/apply/notification/list.do){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.02
 
 # 원티드
 - 북마크: [원티드 북마크](https://www.wanted.co.kr/profile/bookmarks){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.02
 
 # 링크드인
 - 채용공고: [링크드인 채용 페이지](https://www.linkedin.com/jobs/collections/it-services-and-it-consulting/?currentJobId=4145355414&discover=recommended&discoveryOrigin=JOBS_HOME_JYMBII){:target="_blank"}
