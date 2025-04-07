@@ -18,7 +18,6 @@ show_portfolio: false
 {% assign expand_swotsoft = page.expand_swotsoft | site.expand_projects.swotsoft %}
 {% assign expand_topnwise = page.expand_topnwise | site.expand_projects.topnwise %}
 {% include work_experience.md 
-    show_projects_expand=false
     expand_yogiyo=expand_yogiyo
     expand_megazonecloud=expand_megazonecloud
     expand_codepost=expand_codepost
