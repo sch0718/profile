@@ -4,8 +4,8 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 resume:
-  pdf: https://buly.kr/AapKInl # 원본 URL: https://drive.google.com/file/d/1d5BP71Ztz2UvB5H6PMBUz0zeh9_668sG/view?usp=drive_link
-  word: https://buly.kr/Ye8OJ2 # 원본 URL: https://docs.google.com/document/d/1T7x1c8lLF6vX2OLwRix-kBStNs9jxt7w/edit?usp=drive_link&ouid=115324412023263415743&rtpof=true&sd=true
+  pdf: https://buly.kr/4xXFBG0 # 원본 URL: https://drive.google.com/file/d/1uvEc5jLHOuzLUkWW73Q1PrhrGkpzg7Xu/view?usp=drive_link
+  word: https://buly.kr/8TqOnbz # 원본 URL: https://docs.google.com/document/d/1TZGyigLgBU_D6fh7n5MIaZFwOAbSFtnn/edit?usp=drive_link&ouid=115324412023263415743&rtpof=true&sd=true
 show_profile_link: true
 show_portfolio: true
 profile:
