@@ -6,6 +6,10 @@ title: 채용 사이트
 - 채용공고: [네이버 채용 페이지](https://recruit.navercorp.com/rcrt/list.do?subJobCdArr=1010004%2C1010006%2C1010020%2C1050001%2C1060001&sysCompanyCdArr=&empTypeCdArr=0010&entTypeCdArr=0020&workAreaCdArr=0010%2C0020&sw=&subJobCdData=1010004&subJobCdData=1010006&subJobCdData=1010020&subJobCdData=1050001&subJobCdData=1060001&empTypeCdData=0010&entTypeCdData=0020&workAreaCdData=0010&workAreaCdData=0020){:target="_blank"}
 - 최종 확인: 2025.04.07
 
+# 네이버 크림
+- 채용공고: [네이버 크림 채용 페이지](https://recruit.kreamcorp.com/rcrt/list.do?subJobCdArr=1010001%2C1010002%2C1010003%2C1010004%2C1040001%2C1050002%2C1060001&sysCompanyCdArr=&empTypeCdArr=0010&entTypeCdArr=0020&workAreaCdArr=&sw=&subJobCdData=1010001&subJobCdData=1010002&subJobCdData=1010003&subJobCdData=1010004&subJobCdData=1040001&subJobCdData=1050002&subJobCdData=1060001&empTypeCdData=0010&entTypeCdData=0020){:target="_blank"}
+- 최종 확인: 2025.04.09
+
 # 라인
 - 채용공고: [라인 채용 페이지](https://careers.linecorp.com/ko/jobs?ca=Engineering&ci=Gwacheon,Bundang,Seoul&co=East%20Asia&fi=Server-side,Tech%20Management,Web%20Development,Data%20Engineering,Project%20Management&ty=Full-time,Full-time%20%28Entry%20level%29){:target="_blank"}
 - 최종 확인: 2025.04.07
@@ -72,23 +76,23 @@ title: 채용 사이트
 
 # 오퍼센트
 - 채용공고: [오퍼센트 채용공고](https://offercent.co.kr/list?jobCategories=0010001%2C0010009%2C0010010&careerMin=15&careerType=EXPERIENCED&locations=1100000000%2C4113000000%2C4111000000%2C4117000000%2C4121000000%2C4129000000%2C4141000000){:target="_blank"}
-- 최종 확인:2025.04.04
+- 최종 확인:2025.04.07
 
 # 원티드
 - 북마크: [원티드 북마크](https://www.wanted.co.kr/profile/bookmarks){:target="_blank"}
-- 최종 확인: 2025.04.07
+- 최종 확인: 2025.04.09
 
 # 링크드인
 - 채용공고: [링크드인 채용 페이지](https://www.linkedin.com/jobs/collections/it-services-and-it-consulting/?currentJobId=4145355414&discover=recommended&discoveryOrigin=JOBS_HOME_JYMBII){:target="_blank"}
-- 최종 확인: 2025.04.07
+- 최종 확인: 2025.04.09
 
 # 블라인드 하이어
 - 채용공고: [블라인드 채용공고](https://www.blindhire.co.kr/job?jobFunctionId=4&jobSubFunctionIds=42,218,220&yearOfExperience=0to10&employeeSize=1to10000&orderBy=recommend){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.09
 
 # 잡코리아
 - 채용공고: [잡코리아 채용 페이지](https://www.jobkorea.co.kr/recruit/joblist?menucode=local&localorder=1){:target="_blank"}
-- 최종 확인: 2025.03.31
+- 최종 확인: 2025.04.09
 
 # 사람인
 - 채용공고: [사람인 채용 페이지](https://www.saramin.co.kr/zf_user/jobs/list/domestic){:target="_blank"}
