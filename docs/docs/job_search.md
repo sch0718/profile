@@ -4,15 +4,15 @@ title: 채용 사이트
 
 # 네이버
 - 채용공고: [네이버 채용 페이지](https://recruit.navercorp.com/rcrt/list.do?subJobCdArr=1010004%2C1010006%2C1010020%2C1050001%2C1060001&sysCompanyCdArr=&empTypeCdArr=0010&entTypeCdArr=0020&workAreaCdArr=0010%2C0020&sw=&subJobCdData=1010004&subJobCdData=1010006&subJobCdData=1010020&subJobCdData=1050001&subJobCdData=1060001&empTypeCdData=0010&entTypeCdData=0020&workAreaCdData=0010&workAreaCdData=0020){:target="_blank"}
-- 최종 확인: 2025.04.09
+- 최종 확인: 2025.04.10
 
 # 네이버 크림
 - 채용공고: [네이버 크림 채용 페이지](https://recruit.kreamcorp.com/rcrt/list.do?subJobCdArr=1010001%2C1010002%2C1010003%2C1010004%2C1040001%2C1050002%2C1060001&sysCompanyCdArr=&empTypeCdArr=0010&entTypeCdArr=0020&workAreaCdArr=&sw=&subJobCdData=1010001&subJobCdData=1010002&subJobCdData=1010003&subJobCdData=1010004&subJobCdData=1040001&subJobCdData=1050002&subJobCdData=1060001&empTypeCdData=0010&entTypeCdData=0020){:target="_blank"}
-- 최종 확인: 2025.04.09
+- 최종 확인: 2025.04.10
 
 # 라인
 - 채용공고: [라인 채용 페이지](https://careers.linecorp.com/ko/jobs?ca=Engineering&ci=Gwacheon,Bundang,Seoul&co=East%20Asia&fi=Server-side,Tech%20Management,Web%20Development,Data%20Engineering,Project%20Management&ty=Full-time,Full-time%20%28Entry%20level%29){:target="_blank"}
-- 최종 확인: 2025.04.09
+- 최종 확인: 2025.04.10
 
 # 카카오
 - 채용공고: [카카오 채용 페이지](https://careers.kakao.com/jobs?skillSet=&part=TECHNOLOGY&company=ALL&keyword=&employeeType=0&page=1){:target="_blank"}
@@ -48,7 +48,7 @@ title: 채용 사이트
 
 # SK
 - 채용공고: [SK 채용 페이지](https://www.skcareers.com/Recruit){:target="_blank"}
-- 최종 확인: 2025.04.09
+- 최종 확인: 2025.04.10
 
 # 기아
 - 채용공고: [기아 채용 페이지](https://career.kia.com/apply/applyList.kc?nfGubnC=37268bb0020007468bbc5a78ee13a6539b0a0a79bbfcdd7ad08406e8d43cd55f&searchText=){:target="_blank"}
@@ -60,11 +60,11 @@ title: 채용 사이트
 
 # CJ
 - 채용공고: [CJ 채용 페이지](https://recruit.cj.net/recruit/ko/mypage/support_info/support_info.fo){:target="_blank"}
-- 최종 확인: 2025.04.07
+- 최종 확인: 2025.04.10
 
 # 배달의민족
 - 채용공고: [배민 채용 페이지](https://career.woowahan.com/?category=jobGroupCodes%3ABA005001&jobCodes=&employmentTypeCodes=&serviceSectionCodes=&careerPeriod=&keyword=#recruit-list){:target="_blank"}
-- 최종 확인: 2025.04.07
+- 최종 확인: 2025.04.10
 
 # 오토에버
 - 채용공고: [오토에버 홈페이지](https://career.hyundai-autoever.com/apply){:target="_blank"}
@@ -72,15 +72,15 @@ title: 채용 사이트
 
 # 한화
 - 채용공고: [한화그룹 채용 페이지](https://www.hanwhain.com/web/apply/notification/list.do){:target="_blank"}
-- 최종 확인: 2025.04.07
+- 최종 확인: 2025.04.10
 
 # 오퍼센트
 - 채용공고: [오퍼센트 채용공고](https://offercent.co.kr/list?jobCategories=0010001%2C0010009%2C0010010&careerMin=15&careerType=EXPERIENCED&locations=1100000000%2C4113000000%2C4111000000%2C4117000000%2C4121000000%2C4129000000%2C4141000000){:target="_blank"}
-- 최종 확인:2025.04.07
+- 최종 확인:2025.04.10
 
 # 원티드
 - 북마크: [원티드 북마크](https://www.wanted.co.kr/profile/bookmarks){:target="_blank"}
-- 최종 확인: 2025.04.09
+- 최종 확인: 2025.04.10
 
 # 링크드인
 - 채용공고: [링크드인 채용 페이지](https://www.linkedin.com/jobs/collections/it-services-and-it-consulting/?currentJobId=4145355414&discover=recommended&discoveryOrigin=JOBS_HOME_JYMBII){:target="_blank"}
