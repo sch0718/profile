@@ -33,7 +33,7 @@
 - 개발 언어: Python, React, typescript, CSS(LESS), shell script
 - Data Platform/DBMS: BigQuery, PostgreSQL, Kafka(Confluent Cloud), Redis
 - Framework/Tool: FastAPI, poetry, pandas, NextJS, Helm, skaffold, Terraform, ArgoCD, Datadog, Github, Github Action, Docker, Airflow, Jupyter Notebook, EChart, Material UI
-- 직무 경험 및 성과: **트래픽의 변화에 따라 실시간 컨테이너 오케스트레이션 및 대규모 트래픽을 소화할 수 있는 형태의 아키텍처 설계**, **모니터링을 통한 지속적인 성능 개선 및 최적화(피크타임 기준 평균 latency 100ms → 20ms)**, ML 모델의 개발 및 서빙을 위한 전체 과정을 직·간접 경험, 지리 정보 관련 데이터 처리 및 개발
+- 직무 경험 및 성과: **트래픽의 변화에 따라 실시간 컨테이너 오케스트레이션 및 대규모 트래픽을 소화할 수 있는 형태의 아키텍처 설계**, **모니터링을 통한 지속적인 성능 개선 및 최적화(피크타임 기준 p95 latency 100ms → 20ms)**, ML 모델의 개발 및 서빙을 위한 전체 과정을 직·간접 경험, 지리 정보 관련 데이터 처리 및 개발
 
 ### 요기요 데이터 시각화 서비스 고도화
 - 기간: 2020.11 ~ 2022.08
